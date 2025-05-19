@@ -4,6 +4,7 @@
  */
 
 require_once 'config.php';
+require_once 'email.php'; // Added this line to include email functionality
 
 /**
  * Get database connection
@@ -525,15 +526,121 @@ function registerParticipant($data) {
             }
         }
 
-        // Commit transaction
+          // Commit transaction
         $conn->commit();
 
         // Log success
         logMessage("Successful registration for {$data['email']}", 'info');
 
+        // Include email functionality
+        require_once 'email.php';
+
+        // Prepare participant data for the confirmation email
+        $participantData = [
+            'meno' => $data['meno'],
+            'priezvisko' => $data['priezvisko'],
+            'mail' => $data['email'],
+            'datum_narodenia' => $data['datum_narodenia'],
+            'pohlavie' => $pohlavie,
+            'ucastnik' => $data['typ'],
+            'mladez' => $mladezValue,
+            'poznamka' => $poznamka
+        ];
+
+        // Add accommodation info if available
+        if (!empty($data['ubytovanie_id'])) {
+            // Get accommodation details by ID
+            $ubytovacieSql = "SELECT izba FROM ubytovanie WHERE id = ?";
+            $ubytovacieStmt = $conn->prepare($ubytovacieSql);
+            if ($ubytovacieStmt) {
+                $ubytovacieStmt->bind_param("i", $data['ubytovanie_id']);
+                $ubytovacieStmt->execute();
+                $ubytovacieResult = $ubytovacieStmt->get_result();
+                if ($ubytovacieResult && $ubytovacieResult->num_rows > 0) {
+                    $ubytovacieRow = $ubytovacieResult->fetch_assoc();
+                    $participantData['ubytovanie'] = $ubytovacieRow['izba'];
+                }
+                $ubytovacieStmt->close();
+            }
+        }
+
+        // Add activities if available and not a host
+        if (!empty($data['aktivity']) && $data['typ'] !== 'host') {
+            $participantData['aktivity'] = [];
+            foreach ($data['aktivity'] as $aktivitaId) {
+                // Get activity details by ID
+                $aktivitaSql = "SELECT nazov, den FROM aktivity WHERE id = ?";
+                $aktivitaStmt = $conn->prepare($aktivitaSql);
+                if ($aktivitaStmt) {
+                    $aktivitaStmt->bind_param("i", $aktivitaId);
+                    $aktivitaStmt->execute();
+                    $aktivitaResult = $aktivitaStmt->get_result();
+                    if ($aktivitaResult && $aktivitaResult->num_rows > 0) {
+                        $aktivitaRow = $aktivitaResult->fetch_assoc();
+                        $participantData['aktivity'][] = $aktivitaRow;
+                    }
+                    $aktivitaStmt->close();
+                }
+            }
+        }
+
+        // Add allergies if available
+        if (!empty($data['alergie']) || !empty($data['vlastne_alergie'])) {
+            $alergieList = [];
+            
+            // Get standard allergies names
+            if (!empty($data['alergie'])) {
+                foreach ($data['alergie'] as $alergiaId) {
+                    // Only process valid numeric IDs
+                    if (is_numeric($alergiaId)) {
+                        $alergiaSql = "SELECT nazov FROM alergie WHERE id = ?";
+                        $alergiaStmt = $conn->prepare($alergiaSql);
+                        if ($alergiaStmt) {
+                            $alergiaIdInt = (int)$alergiaId;
+                            $alergiaStmt->bind_param("i", $alergiaIdInt);
+                            $alergiaStmt->execute();
+                            $alergiaResult = $alergiaStmt->get_result();
+                            if ($alergiaResult && $alergiaResult->num_rows > 0) {
+                                $alergiaRow = $alergiaResult->fetch_assoc();
+                                $alergieList[] = $alergiaRow['nazov'];
+                            }
+                            $alergiaStmt->close();
+                        }
+                    }
+                }
+            }
+            
+            // Add custom allergies
+            if (!empty($data['vlastne_alergie'])) {
+                $alergieList[] = $data['vlastne_alergie'];
+            }
+            
+            // Join allergies into a string
+            if (!empty($alergieList)) {
+                $participantData['alergie'] = implode(', ', $alergieList);
+            }
+        }
+
+        // Send confirmation email to participant
+        $emailSent = sendConfirmationEmail($participantData, $osUdajeId);
+        if ($emailSent) {
+            logMessage("Confirmation email sent to {$data['email']}", 'info');
+        } else {
+            logMessage("Failed to send confirmation email to {$data['email']}", 'warning');
+        }
+
+        // Send notification to administrators
+        $adminNotified = sendAdminNotification($participantData, $osUdajeId);
+        if ($adminNotified) {
+            logMessage("Admin notification sent for registration #{$osUdajeId}", 'info');
+        } else {
+            logMessage("Failed to send admin notification for registration #{$osUdajeId}", 'warning');
+        }
+
         return [
             'success' => true,
-            'id' => $osUdajeId
+            'id' => $osUdajeId,
+            'email_sent' => $emailSent
         ];
     } catch (Exception $e) {
         // Rollback transaction on error
