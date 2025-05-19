@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v5.9.8, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="../assets/images/kemp.webp" type="image/x-icon">
+  <meta name="description" content="">
+
+  <title>Registrácia na Mládežnícky kemp 2025</title>
+  <link rel="stylesheet" href="../assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
+  <link rel="stylesheet" href="../assets/web/assets/mobirise-icons2/mobirise2.css">
+  <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="../assets/parallax/jarallax.css">
+  <link rel="stylesheet" href="../assets/animatecss/animate.css">
+  <link rel="stylesheet" href="../assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="../assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="../assets/theme/css/style.css">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"></noscript>
+  <link rel="preload" as="style" href="../assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="../assets/mobirise/css/mbr-additional.css" type="text/css">
+  <link rel="stylesheet" href="src/css/styles.css">
+
+  <!-- API Fix Script - This ensures API calls work even if the path is wrong -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      setTimeout(function() {
+        var originalApiBaseUrl;
+        try {
+          originalApiBaseUrl = window.API_BASE_URL;
+          console.log('Current API_BASE_URL:', originalApiBaseUrl);
+
+          var testApiHandler = function(event) {
+            if (event.type === 'error') {
+              console.warn('API request failed, trying alternative paths...');
+
+              var possiblePaths = [
+                'api-direct.php?endpoint=',
+                '/register/api-direct.php?endpoint=',
+                '/api-direct.php?endpoint=',
+                './api-direct.php?endpoint=',
+                '../api-direct.php?endpoint='
+              ];
+
+              window._originalApiBaseUrl = originalApiBaseUrl;
+
+              for (var i = 0; i < possiblePaths.length; i++) {
+                var path = possiblePaths[i];
+                if (path !== originalApiBaseUrl) {
+                  console.log('Trying alternative API path:', path);
+                  window.API_BASE_URL = path;
+                  break;
+                }
+              }
+
+              window.removeEventListener('error', testApiHandler, true);
+            }
+          };
+
+          window.addEventListener('error', testApiHandler, true);
+
+          fetch(originalApiBaseUrl + 'youth-groups')
+            .then(function(response) {
+              if (!response.ok) {
+                throw new Error('API test request failed');
+              }
+              console.log('API path is working correctly');
+              window.removeEventListener('error', testApiHandler, true);
+            })
+            .catch(function(error) {
+              console.warn('API test error:', error);
+            });
+
+        } catch (e) {
+          console.log('Could not access API_BASE_URL, will wait for it to be defined');
+        }
+      }, 500);
+    });
+  </script>
+  <style>
+    html {
+      overflow-y: scroll;
+    }
+    body::-webkit-scrollbar {
+      display: none;
+    }
+    /* Hide sections for host registration */
+    body.host-registration .section-youth-group,
+    body.host-registration .section-activities,
+    body.host-registration .section-accommodation,
+    body.host-registration .section-allergies {
+      display: none !important;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="registration-header">
+    <h1 class="registration-title">Registrácia na Mládežnícky kemp 2025</h1>
+    <div class="registration-subtitle">Vyplňte nasledujúci formulár pre registráciu</div>
+  </div>
+
+  <main>
+    <section class="registration-form-container">
+      <div id="error-container" class="error-message" style="display: none;"></div>
+      <div id="success-message" class="success-message" style="display: none;">
+        <div class="success-icon">
+          <img src="../assets/images/kemp.webp" alt="KEMP logo" class="success-logo">
+          <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52">
+            <circle class="checkmark-circle" cx="26" cy="26" r="25" fill="none"/>
+            <path class="checkmark-check" fill="none" d="M14.1 27.2l7.1 7.2 16.7-16.8"/>
+          </svg>
+        </div>
+        <h2>Registrácia úspešná!</h2>
+        <p>Ďakujeme za registráciu. Na vašu e-mailovú adresu sme odoslali potvrdzujúci email.</p>
+        <div class="progress-container">
+          <div class="progress-bar"></div>
+        </div>
+        <p class="redirect-message">Za chvíľu budete presmerovaný na potvrdzujúcu stránku...</p>
+      </div>
+
+      <!-- Registration form -->
+      <div>
+        <form id="registration-form">
+
+          <!-- Hidden inputs - style="display: none;" je důležitý -->
+          <input type="hidden" name="typ" value="ucastnik">
+          <div id="hidden-activities" style="display: none;"></div>
+
+          <!-- Personal information section -->
+          <div>
+            <h2>Osobné údaje</h2>
+
+            <div>
+              <label for="meno">Meno</label>
+              <input type="text" id="meno" name="meno" required>
+            </div>
+
+            <div>
+              <label for="priezvisko">Priezvisko</label>
+              <input type="text" id="priezvisko" name="priezvisko" required>
+            </div>
+
+            <div>
+              <label for="email">Email</label>
+              <input type="email" id="email" name="email" required>
+            </div>
+
+            <div>
+              <label for="datum_narodenia">Dátum narodenia</label>
+              <input type="date" id="datum_narodenia" name="datum_narodenia" required>
+              <small>Váš dátum narodenia (musíte mať aspoň 14 rokov).</small>
+            </div>
+
+            <div>
+              <label>Pohlavie</label>
+              <div>
+                <input type="radio" id="pohlavie-muz" name="pohlavie" value="muz" required>
+                <label for="pohlavie-muz">Muž</label>
+              </div>
+
+              <div>
+                <input type="radio" id="pohlavie-zena" name="pohlavie" value="zena" required>
+                <label for="pohlavie-zena">Žena</label>
+              </div>
+            </div>
+          </div>
+
+          <!-- Youth group section -->
+          <div class="section-youth-group">
+            <h2>Mládežnícke spoločenstvo</h2>
+
+            <div>
+              <label for="mladez">Spoločenstvo</label>
+              <select id="mladez" name="mladez_id">
+                <option value="">Vyberte spoločenstvo...</option>
+                <!-- Options will be loaded dynamically -->
+              </select>
+            </div>
+
+            <div id="vlastny-mladez-container" style="display:none">
+              <label for="vlastny-mladez">Názov spoločenstva</label>
+              <input type="text" id="vlastny-mladez" name="vlastny_mladez">
+            </div>
+
+            <div>
+              <div>
+                <input type="checkbox" id="prvy-krat" name="prvy_krat">
+                <label for="prvy-krat">Som na kempe prvýkrát</label>
+              </div>
+            </div>
+          </div>
+
+          <!-- Activities section - redesigned with modern look -->
+          <div id="aktivity-sekcia" class="section-activities">
+            <h2>Aktivity</h2>
+            <p class="activities-intro">Pre každý deň si vyberte jednu aktivitu, ktorej sa chcete zúčastniť.</p>
+
+            <!-- Activities container with 3-column layout -->
+            <div id="activities-container" class="activities-grid">
+              <!-- Activities will be loaded by JavaScript -->
+              <!-- Placeholder for dynamic content -->
+            </div>
+          </div>
+
+          <!-- Accommodation section - this will be hidden for hosts -->
+          <div id="ubytovanie-sekcia" class="section-accommodation">
+            <h2>Ubytovanie</h2>
+
+            <div>
+              <label for="ubytovanie">Vyberte ubytovanie</label>
+              <select id="ubytovanie" name="ubytovanie_id" required>
+                <option value="">Najprv vyberte pohlavie...</option>
+                <!-- Options will be loaded dynamically -->
+              </select>
+            </div>
+          </div>
+
+          <!-- Allergies section -->
+          <div class="section-allergies">
+            <h2>Alergie</h2>
+
+            <p>Vyberte alergie, ktoré máte (ak máte):</p>
+
+            <div id="allergies-container">
+              <!-- Allergies will be loaded dynamically -->
+            </div>
+
+            <div>
+              <label for="vlastne-alergie">Iné alergie</label>
+              <textarea id="vlastne-alergie" name="vlastne_alergie" rows="2"></textarea>
+            </div>
+          </div>
+
+          <!-- Note section -->
+          <div>
+            <h2>Poznámka</h2>
+
+            <div>
+              <label for="poznamka" id="poznamka-label">Máte nejaké ďalšie požiadavky alebo informácie?</label>
+              <textarea id="poznamka" name="poznamka" rows="3"></textarea>
+            </div>
+          </div>
+
+          <!-- GDPR section -->
+          <div>
+            <h2>GDPR Súhlas</h2>
+
+            <div>
+              <p class="gdpr-text">Vyplnením a odoslaním tohto formulára dávam súhlas so spracovaním mojich osobných údajov v zmysle Zákona
+                č.18/2018 Z. z. o ochrane osobných údajov v platnom znení, na účel registrácie na kemp a s tým súvisiace organizačné
+                záležitosti. Údaje budú spracovávané organizátormi kempu a nebudú poskytnuté tretím stranám bez vášho súhlasu.</p>
+            </div>
+
+            <div>
+              <div>
+                <input type="checkbox" id="gdpr" name="gdpr" required>
+                <label for="gdpr">Súhlasím so spracovaním osobných údajov</label>
+              </div>
+            </div>
+          </div>
+
+          <!-- Submit button section -->
+          <div>
+            <button type="submit" id="submit-button" class="register-button">Registrovať</button>
+          </div>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <!-- Scripts -->
+  <script type="module" src="src/js/main.js"></script>
+  <script src="../assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="../assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="../assets/ytplayer/index.js"></script>
+  <script src="../assets/theme/js/script.js"></script>
+
+</body>
+</html>

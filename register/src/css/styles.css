@@ -1,0 +1,726 @@
+/* Main CSS styles for the registration system - Redesigned for KEMP 2025 */
+
+:root {
+  /* Main color scheme inspired by the main site */
+  --primary-color: #292520; /* Dark brown from main site */
+  --secondary-color: #805039; /* Brown accent */
+  --accent-color: #c6b48b; /* Light beige/gold accent */
+  --background-color: #ebeceb; /* Light gray background */
+  --dark-color: #292520; /* Dark text color */
+  --light-color: #ffffff; /* White color */
+  --success-color: #30adbb; /* Teal accent for success */
+  --danger-color: #cc3333; /* Red for errors */
+  --warning-color: #e9bd3a; /* Yellow warning */
+  --font-family: 'Inter Tight', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  --border-radius: 8px;
+  --input-border: 1px solid #ddd;
+  --transition: all 0.3s ease;
+  --header-bg: #292520; /* Header background color */
+  --header-text: #fff; /* Header text color */
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-family);
+  background-color: var(--background-color);
+  line-height: 1.6;
+  color: var(--dark-color);
+  overflow-x: hidden;
+  margin-top: 0; /* Reset top margin as we don't use fixed header */
+}
+
+/* Registration header styling */
+.registration-header {
+  padding: 2rem 1rem 1.5rem;
+  background-color: var(--background-color);
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.registration-title {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: var(--primary-color);
+  position: relative;
+  display: inline-block;
+}
+
+.registration-title:after {
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 3px;
+  background-color: var(--accent-color);
+}
+
+.registration-subtitle {
+  font-size: 1.1rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
+
+/* Main content */
+main {
+  padding: 0 1rem;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding-top: 1rem;
+}
+
+.registration-form-container {
+  background-color: var(--light-color);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+
+/* Form section styling */
+form > div {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+form > div:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+form h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1.25rem;
+  color: var(--primary-color);
+  font-weight: 600;
+  position: relative;
+  padding-bottom: 0.5rem;
+}
+
+form h2:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 40px;
+  height: 3px;
+  background-color: var(--accent-color);
+}
+
+/* Form elements */
+form div > div {
+  margin-bottom: 1rem;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  color: var(--dark-color);
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"],
+input[type="number"],
+input[type="password"],
+select,
+textarea {
+  width: 100%;
+  padding: 0.8rem 1rem;
+  border: var(--input-border);
+  border-radius: calc(var(--border-radius) / 2);
+  font-size: 1rem;
+  font-family: var(--font-family);
+  background-color: #fafafa;
+  transition: var(--transition);
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="date"]:focus,
+input[type="number"]:focus,
+input[type="password"]:focus,
+select:focus,
+textarea:focus {
+  outline: none;
+  border-color: var(--accent-color);
+  box-shadow: 0 0 0 3px rgba(198, 180, 139, 0.2);
+  background-color: white;
+}
+
+/* Radio buttons and checkboxes styling */
+input[type="checkbox"] {
+  margin-right: 8px;
+  accent-color: var(--secondary-color);
+}
+
+/* Radio buttons and checkboxes container */
+div > div > div {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+div > div > div label {
+  margin-bottom: 0;
+  margin-left: 0.25rem;
+  font-weight: normal;
+}
+
+/* Small helper text */
+small {
+  display: block;
+  font-size: 0.8rem;
+  color: #666;
+  margin-top: 0.25rem;
+}
+
+/* Error and success messages */
+#error-container {
+  background-color: rgba(204, 51, 51, 0.1);
+  border-left: 4px solid var(--danger-color);
+  color: var(--danger-color);
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  border-radius: 4px;
+}
+
+.error-message {
+  color: var(--danger-color);
+  font-size: 0.85rem;
+  margin-top: 0.25rem;
+}
+
+.field-error {
+  color: var(--danger-color);
+  font-size: 0.85rem;
+  margin-top: 0.25rem;
+}
+
+.success-message {
+  background-color: rgba(48, 173, 187, 0.1);
+  border-left: 4px solid var(--success-color);
+  padding: 2rem;
+  border-radius: 4px;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+.success-message h2 {
+  color: var(--success-color);
+  margin-bottom: 1rem;
+  font-size: 1.8rem;
+}
+
+.success-message p {
+  color: #555;
+  margin-bottom: 1.5rem;
+  font-size: 1.1rem;
+}
+
+.success-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+
+.success-logo {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  border-radius: 50%;
+  background-color: rgba(198, 180, 139, 0.1);
+  padding: 15px;
+  border: 2px solid var(--accent-color);
+}
+
+/* Checkmark animation */
+.checkmark {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  display: block;
+  stroke-width: 3;
+  stroke: var(--success-color);
+  stroke-miterlimit: 10;
+  margin: 10% auto;
+  box-shadow: 0 0 0 rgba(48, 173, 187, 0.4);
+  animation: checkmark 1s ease-in-out forwards, pulse 2s infinite;
+  position: absolute;
+  top: -15px;
+  right: calc(50% - 50px);
+  background: white;
+}
+
+.checkmark-circle {
+  stroke-dasharray: 166;
+  stroke-dashoffset: 166;
+  stroke-width: 2;
+  stroke-miterlimit: 10;
+  stroke: var(--success-color);
+  fill: none;
+  animation: stroke 0.6s cubic-bezier(0.65, 0, 0.45, 1) forwards;
+}
+
+.checkmark-check {
+  transform-origin: 50% 50%;
+  stroke-dasharray: 48;
+  stroke-dashoffset: 48;
+  animation: stroke 0.3s cubic-bezier(0.65, 0, 0.45, 1) 0.8s forwards;
+}
+
+@keyframes stroke {
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes checkmark {
+  0% {
+    transform: scale(0);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(48, 173, 187, 0.4);
+  }
+  70% {
+    box-shadow: 0 0 0 10px rgba(48, 173, 187, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(48, 173, 187, 0);
+  }
+}
+
+.progress-container {
+  width: 80%;
+  height: 6px;
+  background-color: #f0f0f0;
+  border-radius: 3px;
+  margin: 0 auto 1rem auto;
+  overflow: hidden;
+}
+
+.progress-bar {
+  height: 100%;
+  width: 0;
+  background-color: var(--success-color);
+  border-radius: 3px;
+  animation: progressAnimation 2s ease-in-out forwards;
+}
+
+@keyframes progressAnimation {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 100%;
+  }
+}
+
+.redirect-message {
+  font-size: 0.9rem;
+  color: #777;
+  font-style: italic;
+}
+
+/* Modern register button styling */
+.register-button {
+  background: linear-gradient(to right, var(--secondary-color), #8B5A45);
+  color: var(--light-color);
+  font-weight: 600;
+  font-size: 1.1rem;
+  border: none;
+  border-radius: calc(var(--border-radius) / 2);
+  padding: 0.9rem 2.5rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  max-width: 300px;
+  position: relative;
+  overflow: hidden;
+}
+
+.register-button:hover {
+  background: linear-gradient(to right, #8B5A45, var(--secondary-color));
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.register-button:active {
+  transform: translateY(0);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+.register-button:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(128, 80, 57, 0.3), 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.register-button:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0.2) 50%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  transition: all 0.6s ease;
+}
+
+.register-button:hover:before {
+  left: 100%;
+}
+
+/* Disable button state */
+.register-button:disabled {
+  background: #a0a0a0;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+.register-button:disabled:hover {
+  transform: none;
+  box-shadow: none;
+}
+
+/* Adjust button for mobile */
+@media (max-width: 768px) {
+  .register-button {
+    font-size: 1rem;
+    padding: 0.8rem 1.5rem;
+  }
+}
+
+/* Allergy styling with clickable entire area */
+.allergy-option {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 0.75rem;
+  background-color: #f8f8f8;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+}
+
+.allergy-option:hover {
+  background-color: #f0f0f0;
+}
+
+.allergy-option input[type="checkbox"] {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.allergy-option label {
+  margin-bottom: 0;
+  cursor: pointer;
+  flex-grow: 1; /* Make label take up all available space */
+  user-select: none; /* Prevent text selection on rapid clicks */
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1.5rem;
+  background-color: var(--light-color);
+  color: var(--dark-color);
+  margin-top: 2rem;
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.05);
+}
+
+footer p {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+footer a {
+  color: var(--secondary-color);
+  text-decoration: none;
+  transition: var(--transition);
+}
+
+footer a:hover {
+  text-decoration: underline;
+  color: var(--primary-color);
+}
+
+/* Required field indicator */
+.required::after {
+  content: " *";
+  color: var(--danger-color);
+}
+
+/* ======== MODERNIZED ACTIVITIES LAYOUT ======== */
+.activities-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-top: 20px;
+  justify-content: center;
+  width: 100%;
+}
+
+.day-section {
+  flex: 1;
+  min-width: 280px;
+  max-width: 400px;
+  background-color: #fff;
+  padding: 1.5rem;
+  border-radius: var(--border-radius);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.day-name {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--primary-color);
+  text-align: center;
+  margin-bottom: 1.2rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 2px solid var(--accent-color);
+  position: relative;
+}
+
+.activities-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+/* Modern activity option styling with improved radio buttons */
+.activity-option {
+  width: 100%;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+  position: relative;
+  margin-bottom: 0.5rem;
+}
+
+.activity-option:hover {
+  transform: translateY(-1px);
+}
+
+/* Hide default radio button but keep functionality */
+.activity-option input[type="radio"] {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+  margin: 0;
+}
+
+/* Customize the label for activity */
+.activity-option label {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 0.7rem 1rem;
+  cursor: pointer;
+  border-radius: 6px;
+  background-color: #f8f8f8;
+  border: 1px solid #f0f0f0;
+  transition: all 0.2s ease;
+  margin: 0;
+}
+
+/* Styling for checked activity */
+.activity-option input[type="radio"]:checked + label {
+  background-color: rgba(198, 180, 139, 0.1);
+  border-color: var(--accent-color);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.03);
+}
+
+/* Disabled activity style */
+.activity-option.disabled label {
+  opacity: 0.6;
+  cursor: not-allowed;
+  background-color: #f0f0f0;
+}
+
+/* Modern custom radio button */
+.custom-radio {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid #d0d0d0;
+  margin-right: 10px;
+  flex-shrink: 0;
+  position: relative;
+  transition: all 0.2s ease;
+  background-color: white;
+}
+
+/* Style for checked custom radio */
+input[type="radio"]:checked + label .custom-radio {
+  border-color: var(--secondary-color);
+  background-color: var(--light-color);
+}
+
+/* Create the inner circle for checked state */
+input[type="radio"]:checked + label .custom-radio::after {
+  content: '';
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: var(--secondary-color);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 1;
+}
+
+/* Hover effect for radio button */
+.activity-option:hover .custom-radio {
+  border-color: var(--secondary-color);
+}
+
+/* Activity name styling */
+.activity-name {
+  font-weight: 500;
+  flex-grow: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding-right: 8px;
+}
+
+/* Activity capacity styling */
+.activity-capacity {
+  font-size: 0.8rem;
+  color: #888;
+  white-space: nowrap;
+  margin-left: auto;
+  padding-left: 4px;
+  flex-shrink: 0;
+}
+
+/* Allergy styling */
+.allergy-option {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 0.75rem;
+  background-color: #f8f8f8;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+}
+
+.allergy-option:hover {
+  background-color: #f0f0f0;
+}
+
+.allergy-option input[type="checkbox"] {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.allergy-option label {
+  margin-bottom: 0;
+  cursor: pointer;
+  flex-grow: 1; /* Make label take up all available space */
+  user-select: none; /* Prevent text selection on rapid clicks */
+}
+
+/* Host notification for activities */
+#aktivity-sekcia[style*="opacity: 0.7"]::after {
+  content: "Pre hostí nie je potrebné vybrať aktivity";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 10px 20px;
+  border-radius: 4px;
+  color: #666;
+  font-weight: 500;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  z-index: 10;
+  pointer-events: none;
+}
+
+/* Animation effects */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.success-message, .error-message {
+  animation: fadeIn 0.3s ease-out forwards;
+}
+
+/* Mobile responsive design */
+@media (max-width: 768px) {
+  .activities-grid {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 1.5rem;
+  }
+
+  .day-section {
+    width: 100%;
+    max-width: none;
+  }
+
+  .registration-title {
+    font-size: 1.8rem;
+  }
+
+  .registration-form-container {
+    padding: 1.5rem;
+  }
+
+  form h2 {
+    font-size: 1.3rem;
+  }
+
+  .activities-list {
+    gap: 6px;
+  }
+
+  .activity-option label {
+    padding: 0.6rem 0.75rem;
+  }
+}

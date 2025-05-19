@@ -1,0 +1,3357 @@
+[11-Apr-2025 15:05:37 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[11-Apr-2025 15:05:37 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[11-Apr-2025 15:05:37 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[11-Apr-2025 15:05:37 Europe/Prague] [info]: Activities query executed: success
+[11-Apr-2025 15:05:37 Europe/Prague] [info]: Found 16 available activities
+[11-Apr-2025 15:05:38 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[11-Apr-2025 15:05:57 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[11-Apr-2025 15:05:57 Europe/Prague] [info]: Getting accommodations for gender: muz, type: ucastnik
+[11-Apr-2025 15:05:57 Europe/Prague] [info]: Accommodation query result: 2 rows
+[11-Apr-2025 15:08:49 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[11-Apr-2025 15:08:49 Europe/Prague] [info]: Processing registration for: micuchmartin@gmail.com
+[11-Apr-2025 15:08:49 Europe/Prague] [info]: Successfully created user record with ID: 17
+[11-Apr-2025 15:08:49 Europe/Prague] [info]: Added activities for user ID: 17
+[11-Apr-2025 15:08:49 Europe/Prague] [info]: Allergies to insert: ["10"]
+[11-Apr-2025 15:08:49 Europe/Prague] [info]: Inserted allergy ID 10 for user 17
+[11-Apr-2025 15:08:49 Europe/Prague] [info]: Added allergies for user ID: 17
+[11-Apr-2025 15:08:49 Europe/Prague] [info]: Processing custom allergies: beata micuchova, jan hodorovic
+[11-Apr-2025 15:08:49 Europe/Prague] [info]: Created custom allergy record with ID: 20
+[11-Apr-2025 15:08:49 Europe/Prague] [info]: Successfully linked custom allergy 20 to user 17
+[11-Apr-2025 15:08:49 Europe/Prague] [info]: Added accommodation ID: 1 for user ID: 17
+[11-Apr-2025 15:08:49 Europe/Prague] [info]: Successful registration for micuchmartin@gmail.com
+[11-Apr-2025 15:09:15 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[11-Apr-2025 15:09:15 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[11-Apr-2025 15:09:15 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[11-Apr-2025 15:09:15 Europe/Prague] [info]: Activities query executed: success
+[11-Apr-2025 15:09:15 Europe/Prague] [info]: Found 16 available activities
+[11-Apr-2025 15:09:15 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[11-Apr-2025 15:21:04 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[11-Apr-2025 15:21:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[11-Apr-2025 15:21:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[11-Apr-2025 15:21:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[11-Apr-2025 15:21:10 Europe/Prague] [info]: Activities query executed: success
+[11-Apr-2025 15:21:10 Europe/Prague] [info]: Found 16 available activities
+[11-Apr-2025 15:21:11 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[12-Apr-2025 22:06:50 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[12-Apr-2025 23:09:37 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[12-Apr-2025 23:09:37 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[12-Apr-2025 23:09:37 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[12-Apr-2025 23:09:37 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[12-Apr-2025 23:09:37 Europe/Prague] [info]: Activities query executed: success
+[12-Apr-2025 23:09:37 Europe/Prague] [info]: Found 16 available activities
+[12-Apr-2025 23:09:37 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[12-Apr-2025 23:09:38 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[12-Apr-2025 23:09:38 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[12-Apr-2025 23:09:38 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[12-Apr-2025 23:09:38 Europe/Prague] [info]: Activities query executed: success
+[12-Apr-2025 23:09:38 Europe/Prague] [info]: Found 16 available activities
+[12-Apr-2025 23:09:39 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:00 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:00 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:00 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:00 Europe/Prague] [info]: Activities query executed: success
+[13-Apr-2025 00:12:00 Europe/Prague] [info]: Found 16 available activities
+[13-Apr-2025 00:12:00 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:01 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:01 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:01 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:01 Europe/Prague] [info]: Activities query executed: success
+[13-Apr-2025 00:12:01 Europe/Prague] [info]: Found 16 available activities
+[13-Apr-2025 00:12:01 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:01 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:01 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:01 Europe/Prague] [info]: Activities query executed: success
+[13-Apr-2025 00:12:01 Europe/Prague] [info]: Found 16 available activities
+[13-Apr-2025 00:12:01 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:06 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:06 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:06 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:07 Europe/Prague] [info]: Activities query executed: success
+[13-Apr-2025 00:12:07 Europe/Prague] [info]: Found 16 available activities
+[13-Apr-2025 00:12:07 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:51 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:51 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:51 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:51 Europe/Prague] [info]: Activities query executed: success
+[13-Apr-2025 00:12:51 Europe/Prague] [info]: Found 16 available activities
+[13-Apr-2025 00:12:52 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:53 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:53 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:53 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:12:53 Europe/Prague] [info]: Activities query executed: success
+[13-Apr-2025 00:12:53 Europe/Prague] [info]: Found 16 available activities
+[13-Apr-2025 00:12:54 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:13:05 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:13:09 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:13:09 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:13:09 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:13:10 Europe/Prague] [info]: Activities query executed: success
+[13-Apr-2025 00:13:10 Europe/Prague] [info]: Found 16 available activities
+[13-Apr-2025 00:13:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 00:20:08 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 10:23:12 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 10:23:12 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 10:23:12 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 10:23:12 Europe/Prague] [info]: Activities query executed: success
+[13-Apr-2025 10:23:12 Europe/Prague] [info]: Found 16 available activities
+[13-Apr-2025 10:23:13 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 10:23:28 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 10:23:28 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 10:23:28 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 10:23:28 Europe/Prague] [info]: Activities query executed: success
+[13-Apr-2025 10:23:28 Europe/Prague] [info]: Found 16 available activities
+[13-Apr-2025 10:23:29 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:05:05 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:05:05 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:05:05 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:05:05 Europe/Prague] [info]: Activities query executed: success
+[13-Apr-2025 21:05:05 Europe/Prague] [info]: Found 16 available activities
+[13-Apr-2025 21:05:05 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:05:09 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:05:09 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:05:09 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:05:09 Europe/Prague] [info]: Activities query executed: success
+[13-Apr-2025 21:05:09 Europe/Prague] [info]: Found 16 available activities
+[13-Apr-2025 21:05:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:06:56 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:06:56 Europe/Prague] [info]: Getting accommodations for gender: muz, type: veduci
+[13-Apr-2025 21:06:56 Europe/Prague] [info]: Accommodation query result: 2 rows
+[13-Apr-2025 21:08:37 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:08:38 Europe/Prague] [info]: Processing registration for: ttttttttt@gmail.com
+[13-Apr-2025 21:08:38 Europe/Prague] [info]: Successfully created user record with ID: 18
+[13-Apr-2025 21:08:38 Europe/Prague] [info]: Added activities for user ID: 18
+[13-Apr-2025 21:08:38 Europe/Prague] [info]: Allergies to insert: ["2"]
+[13-Apr-2025 21:08:38 Europe/Prague] [info]: Inserted allergy ID 2 for user 18
+[13-Apr-2025 21:08:38 Europe/Prague] [info]: Added allergies for user ID: 18
+[13-Apr-2025 21:08:38 Europe/Prague] [info]: Processing custom allergies: &##&&&>#>>>#&>#&>@&#{@&}@{&}}@
+[13-Apr-2025 21:08:38 Europe/Prague] [info]: Created custom allergy record with ID: 21
+[13-Apr-2025 21:08:38 Europe/Prague] [info]: Successfully linked custom allergy 21 to user 18
+[13-Apr-2025 21:08:38 Europe/Prague] [info]: Added accommodation ID: 5 for user ID: 18
+[13-Apr-2025 21:08:38 Europe/Prague] [info]: Successful registration for ttttttttt@gmail.com
+[13-Apr-2025 21:08:55 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:08:55 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:08:55 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:08:55 Europe/Prague] [info]: Activities query executed: success
+[13-Apr-2025 21:08:55 Europe/Prague] [info]: Found 16 available activities
+[13-Apr-2025 21:08:55 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:14:53 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:14:53 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:14:53 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:14:53 Europe/Prague] [info]: Activities query executed: success
+[13-Apr-2025 21:14:53 Europe/Prague] [info]: Found 16 available activities
+[13-Apr-2025 21:14:54 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:15:04 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:15:04 Europe/Prague] [info]: Getting accommodations for gender: muz, type: veduci
+[13-Apr-2025 21:15:04 Europe/Prague] [info]: Accommodation query result: 3 rows
+[13-Apr-2025 21:15:56 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Processing registration for: timo.bodzas@gmail.com
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Successfully created user record with ID: 19
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Added activities for user ID: 19
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Allergies to insert: ["1","2","3","4","5","6","7","8","9","10","11","12"]
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Inserted allergy ID 1 for user 19
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Inserted allergy ID 2 for user 19
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Inserted allergy ID 3 for user 19
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Inserted allergy ID 4 for user 19
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Inserted allergy ID 5 for user 19
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Inserted allergy ID 6 for user 19
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Inserted allergy ID 7 for user 19
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Inserted allergy ID 8 for user 19
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Inserted allergy ID 9 for user 19
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Inserted allergy ID 10 for user 19
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Inserted allergy ID 11 for user 19
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Inserted allergy ID 12 for user 19
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Added allergies for user ID: 19
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Processing custom allergies: aj ostatne veci
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Created custom allergy record with ID: 22
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Successfully linked custom allergy 22 to user 19
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Added accommodation ID: 4 for user ID: 19
+[13-Apr-2025 21:15:57 Europe/Prague] [info]: Successful registration for timo.bodzas@gmail.com
+[13-Apr-2025 21:18:12 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:18:12 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:18:12 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:18:12 Europe/Prague] [info]: Activities query executed: success
+[13-Apr-2025 21:18:12 Europe/Prague] [info]: Found 16 available activities
+[13-Apr-2025 21:18:13 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:18:26 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:18:26 Europe/Prague] [info]: Getting accommodations for gender: muz, type: ucastnik
+[13-Apr-2025 21:18:26 Europe/Prague] [info]: Accommodation query result: 2 rows
+[13-Apr-2025 21:18:37 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:18:37 Europe/Prague] [info]: Getting accommodations for gender: zena, type: ucastnik
+[13-Apr-2025 21:18:37 Europe/Prague] [info]: Accommodation query result: 3 rows
+[13-Apr-2025 21:18:37 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:18:37 Europe/Prague] [info]: Getting accommodations for gender: muz, type: ucastnik
+[13-Apr-2025 21:18:37 Europe/Prague] [info]: Accommodation query result: 2 rows
+[13-Apr-2025 21:19:34 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:19:34 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:19:34 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:19:34 Europe/Prague] [info]: Activities query executed: success
+[13-Apr-2025 21:19:34 Europe/Prague] [info]: Found 16 available activities
+[13-Apr-2025 21:19:35 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:19:40 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[13-Apr-2025 21:19:40 Europe/Prague] [info]: Getting accommodations for gender: muz, type: veduci
+[13-Apr-2025 21:19:40 Europe/Prague] [info]: Accommodation query result: 2 rows
+[14-Apr-2025 02:35:44 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 02:35:45 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 02:35:45 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 02:35:45 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 02:35:45 Europe/Prague] [info]: Activities query executed: success
+[14-Apr-2025 02:35:45 Europe/Prague] [info]: Found 16 available activities
+[14-Apr-2025 02:35:46 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 02:35:48 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 02:35:48 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 02:35:48 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 02:35:48 Europe/Prague] [info]: Activities query executed: success
+[14-Apr-2025 02:35:48 Europe/Prague] [info]: Found 16 available activities
+[14-Apr-2025 02:35:48 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 02:35:48 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 02:35:48 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 02:35:48 Europe/Prague] [info]: Activities query executed: success
+[14-Apr-2025 02:35:48 Europe/Prague] [info]: Found 16 available activities
+[14-Apr-2025 02:35:49 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:46:00 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:46:02 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:46:02 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:46:02 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:46:02 Europe/Prague] [info]: Activities query executed: success
+[14-Apr-2025 10:46:02 Europe/Prague] [info]: Found 16 available activities
+[14-Apr-2025 10:46:02 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:46:04 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:46:04 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:46:04 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:46:04 Europe/Prague] [info]: Activities query executed: success
+[14-Apr-2025 10:46:04 Europe/Prague] [info]: Found 16 available activities
+[14-Apr-2025 10:46:05 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:46:16 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:46:16 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:46:16 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:46:16 Europe/Prague] [info]: Activities query executed: success
+[14-Apr-2025 10:46:16 Europe/Prague] [info]: Found 16 available activities
+[14-Apr-2025 10:46:16 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:46:24 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:46:24 Europe/Prague] [info]: Getting accommodations for gender: zena, type: veduci
+[14-Apr-2025 10:46:24 Europe/Prague] [info]: Accommodation query result: 3 rows
+[14-Apr-2025 10:47:23 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:47:23 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:47:23 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:47:23 Europe/Prague] [info]: Activities query executed: success
+[14-Apr-2025 10:47:23 Europe/Prague] [info]: Found 16 available activities
+[14-Apr-2025 10:47:23 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:47:25 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:47:25 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:47:25 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:47:25 Europe/Prague] [info]: Activities query executed: success
+[14-Apr-2025 10:47:25 Europe/Prague] [info]: Found 16 available activities
+[14-Apr-2025 10:47:26 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:48:04 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:48:04 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:48:05 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:48:05 Europe/Prague] [info]: Activities query executed: success
+[14-Apr-2025 10:48:05 Europe/Prague] [info]: Found 16 available activities
+[14-Apr-2025 10:48:05 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:48:21 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:48:23 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:51:16 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:51:16 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:51:16 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:51:16 Europe/Prague] [info]: Activities query executed: success
+[14-Apr-2025 10:51:16 Europe/Prague] [info]: Found 16 available activities
+[14-Apr-2025 10:51:16 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:51:43 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:51:43 Europe/Prague] [info]: Getting accommodations for gender: zena, type: ucastnik
+[14-Apr-2025 10:51:43 Europe/Prague] [info]: Accommodation query result: 3 rows
+[14-Apr-2025 10:52:13 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:52:14 Europe/Prague] [info]: Processing registration for: vdnsjlnadlvladjvbadvbdalbvad@g.c
+[14-Apr-2025 10:52:14 Europe/Prague] [info]: Successfully created user record with ID: 24
+[14-Apr-2025 10:52:14 Europe/Prague] [info]: Added activities for user ID: 24
+[14-Apr-2025 10:52:14 Europe/Prague] [info]: Added accommodation ID: 2 for user ID: 24
+[14-Apr-2025 10:52:14 Europe/Prague] [info]: Successful registration for vdnsjlnadlvladjvbadvbdalbvad@g.c
+[14-Apr-2025 10:52:55 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:52:55 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:52:55 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 10:52:55 Europe/Prague] [info]: Activities query executed: success
+[14-Apr-2025 10:52:55 Europe/Prague] [info]: Found 16 available activities
+[14-Apr-2025 10:52:55 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 17:16:28 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 17:16:30 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 17:16:34 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 17:21:56 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 17:21:56 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 17:21:56 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 17:21:56 Europe/Prague] [info]: Activities query executed: success
+[14-Apr-2025 17:21:56 Europe/Prague] [info]: Found 16 available activities
+[14-Apr-2025 17:21:56 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 17:22:04 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 17:22:04 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 17:22:04 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[14-Apr-2025 17:22:04 Europe/Prague] [info]: Activities query executed: success
+[14-Apr-2025 17:22:04 Europe/Prague] [info]: Found 16 available activities
+[14-Apr-2025 17:22:05 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[15-Apr-2025 00:32:37 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[15-Apr-2025 07:42:35 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[15-Apr-2025 07:42:35 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[15-Apr-2025 07:42:35 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[15-Apr-2025 07:42:35 Europe/Prague] [info]: Activities query executed: success
+[15-Apr-2025 07:42:35 Europe/Prague] [info]: Found 16 available activities
+[15-Apr-2025 07:42:35 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[15-Apr-2025 07:46:13 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[15-Apr-2025 07:46:13 Europe/Prague] [info]: Getting accommodations for gender: zena, type: ucastnik
+[15-Apr-2025 07:46:13 Europe/Prague] [info]: Accommodation query result: 3 rows
+[15-Apr-2025 07:46:14 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[15-Apr-2025 07:46:14 Europe/Prague] [info]: Getting accommodations for gender: muz, type: ucastnik
+[15-Apr-2025 07:46:14 Europe/Prague] [info]: Accommodation query result: 2 rows
+[15-Apr-2025 07:46:56 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[15-Apr-2025 07:46:56 Europe/Prague] [info]: Getting accommodations for gender: zena, type: ucastnik
+[15-Apr-2025 07:46:56 Europe/Prague] [info]: Accommodation query result: 3 rows
+[15-Apr-2025 07:47:36 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[15-Apr-2025 07:47:36 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[15-Apr-2025 07:47:36 Europe/Prague] POST DATA: Array
+(
+    [typ] => ucastnik
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 8
+            [2] => 16
+        )
+
+    [meno] => Adam
+    [priezvisko] => Dudáš
+    [email] => foaenoaen@umb.sk
+    [datum_narodenia] => 2000-02-01
+    [pohlavie] => zena
+    [mladez_id] => 5
+    [vlastny_mladez] => 
+    [prvy_krat] => on
+    [activity-streda] => 1
+    [activity-stvrtok] => 8
+    [activity-piatok] => 16
+    [ubytovanie_id] => 3
+    [vlastne_alergie] => 
+    [poznamka] => blabla
+    [gdpr] => on
+)
+
+[15-Apr-2025 07:47:36 Europe/Prague] Registration type: ucastnik
+[15-Apr-2025 07:47:36 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => Adam
+    [priezvisko] => Dudáš
+    [email] => foaenoaen@umb.sk
+    [datum_narodenia] => 2000-02-01
+    [pohlavie] => zena
+    [mladez_id] => 5
+    [vlastny_mladez] => 
+    [prvy_krat] => 1
+    [poznamka] => blabla
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 3
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 8
+            [2] => 16
+        )
+
+    [alergie] => Array
+        (
+        )
+
+    [vlastne_alergie] => 
+)
+
+[15-Apr-2025 07:47:36 Europe/Prague] User registration type: ucastnik
+[15-Apr-2025 07:47:36 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[15-Apr-2025 07:47:36 Europe/Prague] Array
+(
+    [meno] => Adam
+    [priezvisko] => Dudáš
+    [email] => foaenoaen@umb.sk
+    [datum_narodenia] => 2000-02-01
+    [pohlavie] => zena
+    [mladez_id] => 5
+    [vlastny_mladez] => 
+    [prvy_krat] => 1
+    [poznamka] => blabla
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 3
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 8
+            [2] => 16
+        )
+
+    [alergie] => Array
+        (
+        )
+
+    [vlastne_alergie] => 
+)
+
+[15-Apr-2025 07:47:37 Europe/Prague] [info]: Processing registration for: foaenoaen@umb.sk
+[15-Apr-2025 07:47:37 Europe/Prague] [info]: Registration type: ucastnik
+[15-Apr-2025 07:47:37 Europe/Prague] [info]: Successfully created user record with ID: 29
+[15-Apr-2025 07:47:37 Europe/Prague] [info]: Added activities for user ID: 29
+[15-Apr-2025 07:47:37 Europe/Prague] [info]: Added accommodation ID: 3 for user ID: 29
+[15-Apr-2025 07:47:37 Europe/Prague] [info]: Successful registration for foaenoaen@umb.sk
+[15-Apr-2025 07:47:37 Europe/Prague] Registration result: Array
+(
+    [success] => 1
+    [id] => 29
+)
+
+[15-Apr-2025 07:47:37 Europe/Prague] ==== KONIEC REGISTRÁCIE ====
+[15-Apr-2025 07:48:22 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[15-Apr-2025 07:48:23 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[15-Apr-2025 07:48:23 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[15-Apr-2025 07:48:23 Europe/Prague] [info]: Activities query executed: success
+[15-Apr-2025 07:48:23 Europe/Prague] [info]: Found 16 available activities
+[15-Apr-2025 07:48:23 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[22-Apr-2025 11:53:44 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[22-Apr-2025 11:53:44 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[22-Apr-2025 11:53:45 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[22-Apr-2025 11:53:45 Europe/Prague] [info]: Activities query executed: success
+[22-Apr-2025 11:53:45 Europe/Prague] [info]: Found 16 available activities
+[22-Apr-2025 11:53:45 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[22-Apr-2025 11:53:57 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[22-Apr-2025 11:53:57 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[22-Apr-2025 11:53:57 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[22-Apr-2025 11:53:57 Europe/Prague] [info]: Activities query executed: success
+[22-Apr-2025 11:53:57 Europe/Prague] [info]: Found 16 available activities
+[22-Apr-2025 11:53:58 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[22-Apr-2025 11:56:26 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[22-Apr-2025 11:56:26 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[22-Apr-2025 11:56:26 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[22-Apr-2025 11:56:26 Europe/Prague] [info]: Activities query executed: success
+[22-Apr-2025 11:56:26 Europe/Prague] [info]: Found 16 available activities
+[22-Apr-2025 11:56:26 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[22-Apr-2025 18:15:42 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[22-Apr-2025 18:15:42 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[22-Apr-2025 18:15:42 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[22-Apr-2025 18:15:42 Europe/Prague] [info]: Activities query executed: success
+[22-Apr-2025 18:15:42 Europe/Prague] [info]: Found 16 available activities
+[22-Apr-2025 18:15:42 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[22-Apr-2025 18:16:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[22-Apr-2025 18:16:10 Europe/Prague] [info]: Getting accommodations for gender: muz, type: ucastnik
+[22-Apr-2025 18:16:10 Europe/Prague] [info]: Accommodation query result: 2 rows
+[22-Apr-2025 18:16:11 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[22-Apr-2025 18:16:11 Europe/Prague] [info]: Getting accommodations for gender: zena, type: ucastnik
+[22-Apr-2025 18:16:11 Europe/Prague] [info]: Accommodation query result: 3 rows
+[24-Apr-2025 16:44:30 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 16:44:30 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 16:44:30 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 16:44:30 Europe/Prague] [info]: Activities query executed: success
+[24-Apr-2025 16:44:30 Europe/Prague] [info]: Found 16 available activities
+[24-Apr-2025 16:44:30 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 17:25:58 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 17:39:24 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:02:58 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:02:58 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:02:58 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:02:58 Europe/Prague] [info]: Activities query executed: success
+[24-Apr-2025 22:02:58 Europe/Prague] [info]: Found 16 available activities
+[24-Apr-2025 22:02:59 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:11:01 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:13:18 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:13:18 Europe/Prague] [info]: Getting accommodations for gender: muz, type: ucastnik
+[24-Apr-2025 22:13:18 Europe/Prague] [info]: Accommodation query result: 2 rows
+[24-Apr-2025 22:13:39 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:13:39 Europe/Prague] [info]: Getting accommodations for gender: zena, type: ucastnik
+[24-Apr-2025 22:13:39 Europe/Prague] [info]: Accommodation query result: 3 rows
+[24-Apr-2025 22:14:19 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:14:19 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[24-Apr-2025 22:14:19 Europe/Prague] POST DATA: Array
+(
+    [typ] => ucastnik
+    [aktivity] => Array
+        (
+            [0] => 4
+            [1] => 8
+            [2] => 3
+        )
+
+    [meno] => martin
+    [priezvisko] => micuch
+    [email] => micuchmartin19@gmail.com
+    [datum_narodenia] => 2004-05-05
+    [pohlavie] => zena
+    [mladez_id] => 5
+    [vlastny_mladez] => 
+    [prvy_krat] => on
+    [activity-streda] => 4
+    [activity-stvrtok] => 8
+    [activity-piatok] => 3
+    [ubytovanie_id] => 3
+    [alergie] => Array
+        (
+            [0] => 6
+        )
+
+    [vlastne_alergie] => alergia na bombu
+    [poznamka] => pozdravujem team veducich :)
+    [gdpr] => on
+)
+
+[24-Apr-2025 22:14:19 Europe/Prague] Registration type: ucastnik
+[24-Apr-2025 22:14:19 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => martin
+    [priezvisko] => micuch
+    [email] => micuchmartin19@gmail.com
+    [datum_narodenia] => 2004-05-05
+    [pohlavie] => zena
+    [mladez_id] => 5
+    [vlastny_mladez] => 
+    [prvy_krat] => 1
+    [poznamka] => pozdravujem team veducich :)
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 3
+    [aktivity] => Array
+        (
+            [0] => 4
+            [1] => 8
+            [2] => 3
+        )
+
+    [alergie] => Array
+        (
+            [0] => 6
+        )
+
+    [vlastne_alergie] => alergia na bombu
+)
+
+[24-Apr-2025 22:14:19 Europe/Prague] User registration type: ucastnik
+[24-Apr-2025 22:14:19 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[24-Apr-2025 22:14:19 Europe/Prague] Array
+(
+    [meno] => martin
+    [priezvisko] => micuch
+    [email] => micuchmartin19@gmail.com
+    [datum_narodenia] => 2004-05-05
+    [pohlavie] => zena
+    [mladez_id] => 5
+    [vlastny_mladez] => 
+    [prvy_krat] => 1
+    [poznamka] => pozdravujem team veducich :)
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 3
+    [aktivity] => Array
+        (
+            [0] => 4
+            [1] => 8
+            [2] => 3
+        )
+
+    [alergie] => Array
+        (
+            [0] => 6
+        )
+
+    [vlastne_alergie] => alergia na bombu
+)
+
+[24-Apr-2025 22:14:19 Europe/Prague] [info]: Processing registration for: micuchmartin19@gmail.com
+[24-Apr-2025 22:14:19 Europe/Prague] [info]: Registration type: ucastnik
+[24-Apr-2025 22:14:19 Europe/Prague] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /var/www/clients/client5/web40/web/register/api/database.php:550
+Stack trace:
+#0 /var/www/clients/client5/web40/web/register/api/database.php(550): mysqli->close()
+#1 /var/www/clients/client5/web40/web/register/api-direct.php(255): registerParticipant()
+#2 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/database.php on line 550
+[24-Apr-2025 22:14:29 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:14:29 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[24-Apr-2025 22:14:29 Europe/Prague] POST DATA: Array
+(
+    [typ] => ucastnik
+    [aktivity] => Array
+        (
+            [0] => 4
+            [1] => 8
+            [2] => 3
+        )
+
+    [meno] => martin
+    [priezvisko] => micuch
+    [email] => micuchmartin19@gmail.com
+    [datum_narodenia] => 2004-05-05
+    [pohlavie] => zena
+    [mladez_id] => 5
+    [vlastny_mladez] => 
+    [prvy_krat] => on
+    [activity-streda] => 4
+    [activity-stvrtok] => 8
+    [activity-piatok] => 3
+    [ubytovanie_id] => 3
+    [alergie] => Array
+        (
+            [0] => 6
+        )
+
+    [vlastne_alergie] => alergia na bombu
+    [poznamka] => pozdravujem team veducich :)
+    [gdpr] => on
+)
+
+[24-Apr-2025 22:14:29 Europe/Prague] Registration type: ucastnik
+[24-Apr-2025 22:14:29 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => martin
+    [priezvisko] => micuch
+    [email] => micuchmartin19@gmail.com
+    [datum_narodenia] => 2004-05-05
+    [pohlavie] => zena
+    [mladez_id] => 5
+    [vlastny_mladez] => 
+    [prvy_krat] => 1
+    [poznamka] => pozdravujem team veducich :)
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 3
+    [aktivity] => Array
+        (
+            [0] => 4
+            [1] => 8
+            [2] => 3
+        )
+
+    [alergie] => Array
+        (
+            [0] => 6
+        )
+
+    [vlastne_alergie] => alergia na bombu
+)
+
+[24-Apr-2025 22:14:29 Europe/Prague] User registration type: ucastnik
+[24-Apr-2025 22:14:29 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[24-Apr-2025 22:14:29 Europe/Prague] Array
+(
+    [meno] => martin
+    [priezvisko] => micuch
+    [email] => micuchmartin19@gmail.com
+    [datum_narodenia] => 2004-05-05
+    [pohlavie] => zena
+    [mladez_id] => 5
+    [vlastny_mladez] => 
+    [prvy_krat] => 1
+    [poznamka] => pozdravujem team veducich :)
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 3
+    [aktivity] => Array
+        (
+            [0] => 4
+            [1] => 8
+            [2] => 3
+        )
+
+    [alergie] => Array
+        (
+            [0] => 6
+        )
+
+    [vlastne_alergie] => alergia na bombu
+)
+
+[24-Apr-2025 22:14:29 Europe/Prague] [info]: Processing registration for: micuchmartin19@gmail.com
+[24-Apr-2025 22:14:29 Europe/Prague] [info]: Registration type: ucastnik
+[24-Apr-2025 22:14:29 Europe/Prague] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /var/www/clients/client5/web40/web/register/api/database.php:550
+Stack trace:
+#0 /var/www/clients/client5/web40/web/register/api/database.php(550): mysqli->close()
+#1 /var/www/clients/client5/web40/web/register/api-direct.php(255): registerParticipant()
+#2 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/database.php on line 550
+[24-Apr-2025 22:14:37 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:14:37 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[24-Apr-2025 22:14:37 Europe/Prague] POST DATA: Array
+(
+    [typ] => ucastnik
+    [aktivity] => Array
+        (
+            [0] => 4
+            [1] => 8
+            [2] => 3
+        )
+
+    [meno] => martin
+    [priezvisko] => micuch
+    [email] => micuchmaurtin19@gmail.com
+    [datum_narodenia] => 2004-05-05
+    [pohlavie] => zena
+    [mladez_id] => 5
+    [vlastny_mladez] => 
+    [prvy_krat] => on
+    [activity-streda] => 4
+    [activity-stvrtok] => 8
+    [activity-piatok] => 3
+    [ubytovanie_id] => 3
+    [alergie] => Array
+        (
+            [0] => 6
+        )
+
+    [vlastne_alergie] => alergia na bombu
+    [poznamka] => pozdravujem team veducich :)
+    [gdpr] => on
+)
+
+[24-Apr-2025 22:14:37 Europe/Prague] Registration type: ucastnik
+[24-Apr-2025 22:14:37 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => martin
+    [priezvisko] => micuch
+    [email] => micuchmaurtin19@gmail.com
+    [datum_narodenia] => 2004-05-05
+    [pohlavie] => zena
+    [mladez_id] => 5
+    [vlastny_mladez] => 
+    [prvy_krat] => 1
+    [poznamka] => pozdravujem team veducich :)
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 3
+    [aktivity] => Array
+        (
+            [0] => 4
+            [1] => 8
+            [2] => 3
+        )
+
+    [alergie] => Array
+        (
+            [0] => 6
+        )
+
+    [vlastne_alergie] => alergia na bombu
+)
+
+[24-Apr-2025 22:14:37 Europe/Prague] User registration type: ucastnik
+[24-Apr-2025 22:14:37 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[24-Apr-2025 22:14:37 Europe/Prague] Array
+(
+    [meno] => martin
+    [priezvisko] => micuch
+    [email] => micuchmaurtin19@gmail.com
+    [datum_narodenia] => 2004-05-05
+    [pohlavie] => zena
+    [mladez_id] => 5
+    [vlastny_mladez] => 
+    [prvy_krat] => 1
+    [poznamka] => pozdravujem team veducich :)
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 3
+    [aktivity] => Array
+        (
+            [0] => 4
+            [1] => 8
+            [2] => 3
+        )
+
+    [alergie] => Array
+        (
+            [0] => 6
+        )
+
+    [vlastne_alergie] => alergia na bombu
+)
+
+[24-Apr-2025 22:14:37 Europe/Prague] [info]: Processing registration for: micuchmaurtin19@gmail.com
+[24-Apr-2025 22:14:37 Europe/Prague] [info]: Registration type: ucastnik
+[24-Apr-2025 22:14:37 Europe/Prague] [info]: Successfully created user record with ID: 30
+[24-Apr-2025 22:14:37 Europe/Prague] [info]: Added activities for user ID: 30
+[24-Apr-2025 22:14:37 Europe/Prague] [info]: Allergies to insert: ["6"]
+[24-Apr-2025 22:14:37 Europe/Prague] [info]: Inserted allergy ID 6 for user 30
+[24-Apr-2025 22:14:37 Europe/Prague] [info]: Added allergies for user ID: 30
+[24-Apr-2025 22:14:37 Europe/Prague] [info]: Processing custom allergies: alergia na bombu
+[24-Apr-2025 22:14:37 Europe/Prague] [info]: Created custom allergy record with ID: 25
+[24-Apr-2025 22:14:37 Europe/Prague] [info]: Successfully linked custom allergy 25 to user 30
+[24-Apr-2025 22:14:37 Europe/Prague] [info]: Added accommodation ID: 3 for user ID: 30
+[24-Apr-2025 22:14:37 Europe/Prague] [info]: Successful registration for micuchmaurtin19@gmail.com
+[24-Apr-2025 22:14:37 Europe/Prague] Registration result: Array
+(
+    [success] => 1
+    [id] => 30
+)
+
+[24-Apr-2025 22:14:37 Europe/Prague] ==== KONIEC REGISTRÁCIE ====
+[24-Apr-2025 22:16:02 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:16:02 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:16:02 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:16:02 Europe/Prague] [info]: Activities query executed: success
+[24-Apr-2025 22:16:02 Europe/Prague] [info]: Found 16 available activities
+[24-Apr-2025 22:16:03 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:16:18 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:16:18 Europe/Prague] [info]: Getting accommodations for gender: muz, type: host
+[24-Apr-2025 22:16:18 Europe/Prague] [info]: Accommodation query result: 0 rows
+[24-Apr-2025 22:16:40 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:16:40 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[24-Apr-2025 22:16:40 Europe/Prague] POST DATA: Array
+(
+    [typ] => host
+    [meno] => veduci
+    [priezvisko] => prihlasovanie
+    [email] => ubdjdvnlanv@nvkdsjvjskd.c
+    [datum_narodenia] => 2005-05-05
+    [pohlavie] => muz
+    [mladez_id] => iny
+    [vlastny_mladez] => Host
+    [ubytovanie_id] => 6
+    [vlastne_alergie] => 
+    [poznamka] => budem spat niekedy na vasom kempe, nemam alergie a tesim sa na vas
+    [gdpr] => on
+    [token] => b04d690d-f705-43e4-b719-234f6722915c
+)
+
+[24-Apr-2025 22:16:40 Europe/Prague] Registration type: host
+[24-Apr-2025 22:16:40 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => veduci
+    [priezvisko] => prihlasovanie
+    [email] => ubdjdvnlanv@nvkdsjvjskd.c
+    [datum_narodenia] => 2005-05-05
+    [pohlavie] => muz
+    [mladez_id] => iny
+    [vlastny_mladez] => Host
+    [prvy_krat] => 
+    [poznamka] => budem spat niekedy na vasom kempe, nemam alergie a tesim sa na vas
+    [gdpr] => 1
+    [typ] => host
+    [ubytovanie_id] => 6
+    [aktivity] => Array
+        (
+        )
+
+    [alergie] => Array
+        (
+        )
+
+    [vlastne_alergie] => 
+)
+
+[24-Apr-2025 22:16:40 Europe/Prague] User registration type: host
+[24-Apr-2025 22:16:40 Europe/Prague] HOST REGISTRATION: Skipping accommodation and activities validation
+[24-Apr-2025 22:16:40 Europe/Prague] Set mladez_id to 'iny' and vlastny_mladez to 'Host' for host
+[24-Apr-2025 22:16:40 Europe/Prague] Skipping activities for host
+[24-Apr-2025 22:16:40 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[24-Apr-2025 22:16:40 Europe/Prague] Array
+(
+    [meno] => veduci
+    [priezvisko] => prihlasovanie
+    [email] => ubdjdvnlanv@nvkdsjvjskd.c
+    [datum_narodenia] => 2005-05-05
+    [pohlavie] => muz
+    [mladez_id] => iny
+    [vlastny_mladez] => Host
+    [prvy_krat] => 
+    [poznamka] => budem spat niekedy na vasom kempe, nemam alergie a tesim sa na vas
+    [gdpr] => 1
+    [typ] => host
+    [ubytovanie_id] => 6
+    [aktivity] => Array
+        (
+        )
+
+    [alergie] => Array
+        (
+        )
+
+    [vlastne_alergie] => 
+)
+
+[24-Apr-2025 22:16:40 Europe/Prague] [info]: Processing registration for: ubdjdvnlanv@nvkdsjvjskd.c
+[24-Apr-2025 22:16:40 Europe/Prague] [info]: Registration type: host
+[24-Apr-2025 22:16:40 Europe/Prague] [info]: ==== HOST REGISTRATION DETAILS ====
+[24-Apr-2025 22:16:40 Europe/Prague] [info]: Processing HOST registration with special handling
+[24-Apr-2025 22:16:40 Europe/Prague] [info]: Using provided accommodation ID: 6 for host
+[24-Apr-2025 22:16:40 Europe/Prague] [info]: Skipping activities for host
+[24-Apr-2025 22:16:40 Europe/Prague] [info]: Using provided youth group: Host for host
+[24-Apr-2025 22:16:40 Europe/Prague] [info]: HOST registration final values: ubytovanie_id=6, mladez=Host
+[24-Apr-2025 22:16:40 Europe/Prague] [info]: Successfully created user record with ID: 31
+[24-Apr-2025 22:16:40 Europe/Prague] [info]: Skipping activity insertion for host user
+[24-Apr-2025 22:16:40 Europe/Prague] [info]: Added accommodation ID: 6 for user ID: 31
+[24-Apr-2025 22:16:40 Europe/Prague] [info]: Successful registration for ubdjdvnlanv@nvkdsjvjskd.c
+[24-Apr-2025 22:16:40 Europe/Prague] Registration result: Array
+(
+    [success] => 1
+    [id] => 31
+)
+
+[24-Apr-2025 22:16:40 Europe/Prague] ==== KONIEC REGISTRÁCIE ====
+[24-Apr-2025 22:17:11 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:17:11 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:17:11 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:17:11 Europe/Prague] [info]: Activities query executed: success
+[24-Apr-2025 22:17:11 Europe/Prague] [info]: Found 16 available activities
+[24-Apr-2025 22:17:12 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:17:29 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:17:29 Europe/Prague] [info]: Getting accommodations for gender: muz, type: veduci
+[24-Apr-2025 22:17:29 Europe/Prague] [info]: Accommodation query result: 2 rows
+[24-Apr-2025 22:17:46 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:17:46 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[24-Apr-2025 22:17:46 Europe/Prague] POST DATA: Array
+(
+    [typ] => veduci
+    [aktivity] => Array
+        (
+            [0] => 9
+            [1] => 13
+            [2] => 12
+        )
+
+    [meno] => veduci
+    [priezvisko] => terazuzfakt
+    [email] => vdsjbvjdnlvndslvnds@gjdsn.c
+    [datum_narodenia] => 2004-05-05
+    [pohlavie] => muz
+    [mladez_id] => 6
+    [vlastny_mladez] => 
+    [activity-streda] => 9
+    [activity-stvrtok] => 13
+    [activity-piatok] => 12
+    [ubytovanie_id] => 5
+    [alergie] => Array
+        (
+            [0] => 5
+        )
+
+    [vlastne_alergie] => 
+    [poznamka] => ddvdv
+    [gdpr] => on
+    [token] => b2805987-3e4e-4d5a-9505-3fc8b367316f
+)
+
+[24-Apr-2025 22:17:46 Europe/Prague] Registration type: veduci
+[24-Apr-2025 22:17:46 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => veduci
+    [priezvisko] => terazuzfakt
+    [email] => vdsjbvjdnlvndslvnds@gjdsn.c
+    [datum_narodenia] => 2004-05-05
+    [pohlavie] => muz
+    [mladez_id] => 6
+    [vlastny_mladez] => 
+    [prvy_krat] => 
+    [poznamka] => ddvdv
+    [gdpr] => 1
+    [typ] => veduci
+    [ubytovanie_id] => 5
+    [aktivity] => Array
+        (
+            [0] => 9
+            [1] => 13
+            [2] => 12
+        )
+
+    [alergie] => Array
+        (
+            [0] => 5
+        )
+
+    [vlastne_alergie] => 
+)
+
+[24-Apr-2025 22:17:46 Europe/Prague] User registration type: veduci
+[24-Apr-2025 22:17:46 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[24-Apr-2025 22:17:46 Europe/Prague] Array
+(
+    [meno] => veduci
+    [priezvisko] => terazuzfakt
+    [email] => vdsjbvjdnlvndslvnds@gjdsn.c
+    [datum_narodenia] => 2004-05-05
+    [pohlavie] => muz
+    [mladez_id] => 6
+    [vlastny_mladez] => 
+    [prvy_krat] => 
+    [poznamka] => ddvdv
+    [gdpr] => 1
+    [typ] => veduci
+    [ubytovanie_id] => 5
+    [aktivity] => Array
+        (
+            [0] => 9
+            [1] => 13
+            [2] => 12
+        )
+
+    [alergie] => Array
+        (
+            [0] => 5
+        )
+
+    [vlastne_alergie] => 
+)
+
+[24-Apr-2025 22:17:46 Europe/Prague] [info]: Processing registration for: vdsjbvjdnlvndslvnds@gjdsn.c
+[24-Apr-2025 22:17:46 Europe/Prague] [info]: Registration type: veduci
+[24-Apr-2025 22:17:46 Europe/Prague] [info]: Successfully created user record with ID: 32
+[24-Apr-2025 22:17:47 Europe/Prague] [info]: Added activities for user ID: 32
+[24-Apr-2025 22:17:47 Europe/Prague] [info]: Allergies to insert: ["5"]
+[24-Apr-2025 22:17:47 Europe/Prague] [info]: Inserted allergy ID 5 for user 32
+[24-Apr-2025 22:17:47 Europe/Prague] [info]: Added allergies for user ID: 32
+[24-Apr-2025 22:17:47 Europe/Prague] [info]: Added accommodation ID: 5 for user ID: 32
+[24-Apr-2025 22:17:47 Europe/Prague] [info]: Successful registration for vdsjbvjdnlvndslvnds@gjdsn.c
+[24-Apr-2025 22:17:47 Europe/Prague] Registration result: Array
+(
+    [success] => 1
+    [id] => 32
+)
+
+[24-Apr-2025 22:17:47 Europe/Prague] ==== KONIEC REGISTRÁCIE ====
+[24-Apr-2025 22:19:42 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:19:42 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:19:42 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:19:43 Europe/Prague] [info]: Activities query executed: success
+[24-Apr-2025 22:19:43 Europe/Prague] [info]: Found 16 available activities
+[24-Apr-2025 22:19:43 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:21:23 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:21:23 Europe/Prague] [info]: Getting accommodations for gender: muz, type: ucastnik
+[24-Apr-2025 22:21:23 Europe/Prague] [info]: Accommodation query result: 2 rows
+[24-Apr-2025 22:21:43 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:21:43 Europe/Prague] [info]: Getting accommodations for gender: zena, type: ucastnik
+[24-Apr-2025 22:21:43 Europe/Prague] [info]: Accommodation query result: 3 rows
+[24-Apr-2025 22:22:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:22:10 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[24-Apr-2025 22:22:10 Europe/Prague] POST DATA: Array
+(
+    [typ] => ucastnik
+    [aktivity] => Array
+        (
+            [0] => 9
+            [1] => 8
+            [2] => 12
+        )
+
+    [meno] => martn
+    [priezvisko] => neviem
+    [email] => anvdavbakj@gmail.com
+    [datum_narodenia] => 2004-05-05
+    [pohlavie] => zena
+    [mladez_id] => 11
+    [vlastny_mladez] => 
+    [prvy_krat] => on
+    [activity-streda] => 9
+    [activity-stvrtok] => 8
+    [activity-piatok] => 12
+    [ubytovanie_id] => 3
+    [alergie] => Array
+        (
+            [0] => 11
+        )
+
+    [vlastne_alergie] => tehly
+    [poznamka] => n
+    [gdpr] => on
+)
+
+[24-Apr-2025 22:22:10 Europe/Prague] Registration type: ucastnik
+[24-Apr-2025 22:22:10 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => martn
+    [priezvisko] => neviem
+    [email] => anvdavbakj@gmail.com
+    [datum_narodenia] => 2004-05-05
+    [pohlavie] => zena
+    [mladez_id] => 11
+    [vlastny_mladez] => 
+    [prvy_krat] => 1
+    [poznamka] => n
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 3
+    [aktivity] => Array
+        (
+            [0] => 9
+            [1] => 8
+            [2] => 12
+        )
+
+    [alergie] => Array
+        (
+            [0] => 11
+        )
+
+    [vlastne_alergie] => tehly
+)
+
+[24-Apr-2025 22:22:10 Europe/Prague] User registration type: ucastnik
+[24-Apr-2025 22:22:10 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[24-Apr-2025 22:22:10 Europe/Prague] Array
+(
+    [meno] => martn
+    [priezvisko] => neviem
+    [email] => anvdavbakj@gmail.com
+    [datum_narodenia] => 2004-05-05
+    [pohlavie] => zena
+    [mladez_id] => 11
+    [vlastny_mladez] => 
+    [prvy_krat] => 1
+    [poznamka] => n
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 3
+    [aktivity] => Array
+        (
+            [0] => 9
+            [1] => 8
+            [2] => 12
+        )
+
+    [alergie] => Array
+        (
+            [0] => 11
+        )
+
+    [vlastne_alergie] => tehly
+)
+
+[24-Apr-2025 22:22:10 Europe/Prague] [info]: Processing registration for: anvdavbakj@gmail.com
+[24-Apr-2025 22:22:10 Europe/Prague] [info]: Registration type: ucastnik
+[24-Apr-2025 22:22:10 Europe/Prague] [info]: Successfully created user record with ID: 33
+[24-Apr-2025 22:22:10 Europe/Prague] [info]: Added activities for user ID: 33
+[24-Apr-2025 22:22:10 Europe/Prague] [info]: Allergies to insert: ["11"]
+[24-Apr-2025 22:22:10 Europe/Prague] [info]: Inserted allergy ID 11 for user 33
+[24-Apr-2025 22:22:10 Europe/Prague] [info]: Added allergies for user ID: 33
+[24-Apr-2025 22:22:10 Europe/Prague] [info]: Processing custom allergies: tehly
+[24-Apr-2025 22:22:10 Europe/Prague] [info]: Created custom allergy record with ID: 26
+[24-Apr-2025 22:22:10 Europe/Prague] [info]: Successfully linked custom allergy 26 to user 33
+[24-Apr-2025 22:22:10 Europe/Prague] [info]: Added accommodation ID: 3 for user ID: 33
+[24-Apr-2025 22:22:10 Europe/Prague] [info]: Successful registration for anvdavbakj@gmail.com
+[24-Apr-2025 22:22:10 Europe/Prague] Registration result: Array
+(
+    [success] => 1
+    [id] => 33
+)
+
+[24-Apr-2025 22:22:10 Europe/Prague] ==== KONIEC REGISTRÁCIE ====
+[24-Apr-2025 22:22:18 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:22:18 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:22:18 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:22:18 Europe/Prague] [info]: Activities query executed: success
+[24-Apr-2025 22:22:18 Europe/Prague] [info]: Found 16 available activities
+[24-Apr-2025 22:22:18 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:22:33 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:22:33 Europe/Prague] [info]: Getting accommodations for gender: muz, type: veduci
+[24-Apr-2025 22:22:33 Europe/Prague] [info]: Accommodation query result: 2 rows
+[24-Apr-2025 22:22:33 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:22:33 Europe/Prague] [info]: Getting accommodations for gender: zena, type: veduci
+[24-Apr-2025 22:22:33 Europe/Prague] [info]: Accommodation query result: 2 rows
+[24-Apr-2025 22:23:05 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:23:05 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[24-Apr-2025 22:23:05 Europe/Prague] POST DATA: Array
+(
+    [typ] => veduci
+    [aktivity] => Array
+        (
+            [0] => 14
+        )
+
+    [meno] => veduci
+    [priezvisko] => veduci
+    [email] => uvdvbskjvsbdjvks@gm.c
+    [datum_narodenia] => 2004-05-05
+    [pohlavie] => zena
+    [mladez_id] => 5
+    [vlastny_mladez] => 
+    [prvy_krat] => on
+    [activity-streda] => 14
+    [ubytovanie_id] => 2
+    [alergie] => Array
+        (
+            [0] => 3
+        )
+
+    [vlastne_alergie] => 
+    [poznamka] => vd
+    [gdpr] => on
+    [token] => 8ba6a5a0-2f87-44f7-b166-f440257f4922
+)
+
+[24-Apr-2025 22:23:05 Europe/Prague] Registration type: veduci
+[24-Apr-2025 22:23:05 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => veduci
+    [priezvisko] => veduci
+    [email] => uvdvbskjvsbdjvks@gm.c
+    [datum_narodenia] => 2004-05-05
+    [pohlavie] => zena
+    [mladez_id] => 5
+    [vlastny_mladez] => 
+    [prvy_krat] => 1
+    [poznamka] => vd
+    [gdpr] => 1
+    [typ] => veduci
+    [ubytovanie_id] => 2
+    [aktivity] => Array
+        (
+            [0] => 14
+        )
+
+    [alergie] => Array
+        (
+            [0] => 3
+        )
+
+    [vlastne_alergie] => 
+)
+
+[24-Apr-2025 22:23:05 Europe/Prague] User registration type: veduci
+[24-Apr-2025 22:23:05 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[24-Apr-2025 22:23:05 Europe/Prague] Array
+(
+    [meno] => veduci
+    [priezvisko] => veduci
+    [email] => uvdvbskjvsbdjvks@gm.c
+    [datum_narodenia] => 2004-05-05
+    [pohlavie] => zena
+    [mladez_id] => 5
+    [vlastny_mladez] => 
+    [prvy_krat] => 1
+    [poznamka] => vd
+    [gdpr] => 1
+    [typ] => veduci
+    [ubytovanie_id] => 2
+    [aktivity] => Array
+        (
+            [0] => 14
+        )
+
+    [alergie] => Array
+        (
+            [0] => 3
+        )
+
+    [vlastne_alergie] => 
+)
+
+[24-Apr-2025 22:23:05 Europe/Prague] [info]: Processing registration for: uvdvbskjvsbdjvks@gm.c
+[24-Apr-2025 22:23:05 Europe/Prague] [info]: Registration type: veduci
+[24-Apr-2025 22:23:05 Europe/Prague] [info]: Successfully created user record with ID: 34
+[24-Apr-2025 22:23:05 Europe/Prague] [info]: Added activities for user ID: 34
+[24-Apr-2025 22:23:05 Europe/Prague] [info]: Allergies to insert: ["3"]
+[24-Apr-2025 22:23:05 Europe/Prague] [info]: Inserted allergy ID 3 for user 34
+[24-Apr-2025 22:23:05 Europe/Prague] [info]: Added allergies for user ID: 34
+[24-Apr-2025 22:23:05 Europe/Prague] [info]: Added accommodation ID: 2 for user ID: 34
+[24-Apr-2025 22:23:05 Europe/Prague] [info]: Successful registration for uvdvbskjvsbdjvks@gm.c
+[24-Apr-2025 22:23:05 Europe/Prague] Registration result: Array
+(
+    [success] => 1
+    [id] => 34
+)
+
+[24-Apr-2025 22:23:05 Europe/Prague] ==== KONIEC REGISTRÁCIE ====
+[24-Apr-2025 22:23:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:23:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:23:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:23:10 Europe/Prague] [info]: Activities query executed: success
+[24-Apr-2025 22:23:10 Europe/Prague] [info]: Found 16 available activities
+[24-Apr-2025 22:23:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:23:22 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:23:22 Europe/Prague] [info]: Getting accommodations for gender: muz, type: host
+[24-Apr-2025 22:23:22 Europe/Prague] [info]: Accommodation query result: 0 rows
+[24-Apr-2025 22:23:43 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[24-Apr-2025 22:23:43 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[24-Apr-2025 22:23:43 Europe/Prague] POST DATA: Array
+(
+    [typ] => host
+    [meno] => host
+    [priezvisko] => host
+    [email] => vdsvdsvsvsd@g.c
+    [datum_narodenia] => 2005-05-05
+    [pohlavie] => muz
+    [mladez_id] => iny
+    [vlastny_mladez] => Host
+    [ubytovanie_id] => 6
+    [vlastne_alergie] => 
+    [poznamka] => budem iba v stredu, nebudem spat, nemam alergie, tesim sa na vas
+    [gdpr] => on
+    [token] => 52e050f9-94fa-4789-9301-3b6fb494d387
+)
+
+[24-Apr-2025 22:23:43 Europe/Prague] Registration type: host
+[24-Apr-2025 22:23:43 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => host
+    [priezvisko] => host
+    [email] => vdsvdsvsvsd@g.c
+    [datum_narodenia] => 2005-05-05
+    [pohlavie] => muz
+    [mladez_id] => iny
+    [vlastny_mladez] => Host
+    [prvy_krat] => 
+    [poznamka] => budem iba v stredu, nebudem spat, nemam alergie, tesim sa na vas
+    [gdpr] => 1
+    [typ] => host
+    [ubytovanie_id] => 6
+    [aktivity] => Array
+        (
+        )
+
+    [alergie] => Array
+        (
+        )
+
+    [vlastne_alergie] => 
+)
+
+[24-Apr-2025 22:23:43 Europe/Prague] User registration type: host
+[24-Apr-2025 22:23:43 Europe/Prague] HOST REGISTRATION: Skipping accommodation and activities validation
+[24-Apr-2025 22:23:43 Europe/Prague] Set mladez_id to 'iny' and vlastny_mladez to 'Host' for host
+[24-Apr-2025 22:23:43 Europe/Prague] Skipping activities for host
+[24-Apr-2025 22:23:43 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[24-Apr-2025 22:23:43 Europe/Prague] Array
+(
+    [meno] => host
+    [priezvisko] => host
+    [email] => vdsvdsvsvsd@g.c
+    [datum_narodenia] => 2005-05-05
+    [pohlavie] => muz
+    [mladez_id] => iny
+    [vlastny_mladez] => Host
+    [prvy_krat] => 
+    [poznamka] => budem iba v stredu, nebudem spat, nemam alergie, tesim sa na vas
+    [gdpr] => 1
+    [typ] => host
+    [ubytovanie_id] => 6
+    [aktivity] => Array
+        (
+        )
+
+    [alergie] => Array
+        (
+        )
+
+    [vlastne_alergie] => 
+)
+
+[24-Apr-2025 22:23:43 Europe/Prague] [info]: Processing registration for: vdsvdsvsvsd@g.c
+[24-Apr-2025 22:23:43 Europe/Prague] [info]: Registration type: host
+[24-Apr-2025 22:23:43 Europe/Prague] [info]: ==== HOST REGISTRATION DETAILS ====
+[24-Apr-2025 22:23:43 Europe/Prague] [info]: Processing HOST registration with special handling
+[24-Apr-2025 22:23:43 Europe/Prague] [info]: Using provided accommodation ID: 6 for host
+[24-Apr-2025 22:23:43 Europe/Prague] [info]: Skipping activities for host
+[24-Apr-2025 22:23:43 Europe/Prague] [info]: Using provided youth group: Host for host
+[24-Apr-2025 22:23:43 Europe/Prague] [info]: HOST registration final values: ubytovanie_id=6, mladez=Host
+[24-Apr-2025 22:23:43 Europe/Prague] [info]: Successfully created user record with ID: 35
+[24-Apr-2025 22:23:43 Europe/Prague] [info]: Skipping activity insertion for host user
+[24-Apr-2025 22:23:44 Europe/Prague] [info]: Added accommodation ID: 6 for user ID: 35
+[24-Apr-2025 22:23:44 Europe/Prague] [info]: Successful registration for vdsvdsvsvsd@g.c
+[24-Apr-2025 22:23:44 Europe/Prague] Registration result: Array
+(
+    [success] => 1
+    [id] => 35
+)
+
+[24-Apr-2025 22:23:44 Europe/Prague] ==== KONIEC REGISTRÁCIE ====
+[25-Apr-2025 10:50:45 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[25-Apr-2025 10:50:45 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[25-Apr-2025 10:50:45 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[25-Apr-2025 10:50:45 Europe/Prague] [info]: Activities query executed: success
+[25-Apr-2025 10:50:45 Europe/Prague] [info]: Found 16 available activities
+[25-Apr-2025 10:50:46 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[25-Apr-2025 10:51:18 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[25-Apr-2025 10:51:18 Europe/Prague] [info]: Getting accommodations for gender: muz, type: ucastnik
+[25-Apr-2025 10:51:18 Europe/Prague] [info]: Accommodation query result: 2 rows
+[25-Apr-2025 10:52:12 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[25-Apr-2025 10:52:12 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[25-Apr-2025 10:52:12 Europe/Prague] POST DATA: Array
+(
+    [typ] => ucastnik
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 10
+            [2] => 11
+        )
+
+    [meno] => sbfb
+    [priezvisko] => bsdbsb
+    [email] => amamdvs@gmai.cl
+    [datum_narodenia] => 2004-04-04
+    [pohlavie] => muz
+    [mladez_id] => 9
+    [vlastny_mladez] => 
+    [prvy_krat] => on
+    [activity-streda] => 1
+    [activity-stvrtok] => 10
+    [activity-piatok] => 11
+    [ubytovanie_id] => 1
+    [alergie] => Array
+        (
+            [0] => 4
+        )
+
+    [vlastne_alergie] => tehly
+    [poznamka] => :D
+    [gdpr] => on
+)
+
+[25-Apr-2025 10:52:12 Europe/Prague] Registration type: ucastnik
+[25-Apr-2025 10:52:12 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => sbfb
+    [priezvisko] => bsdbsb
+    [email] => amamdvs@gmai.cl
+    [datum_narodenia] => 2004-04-04
+    [pohlavie] => muz
+    [mladez_id] => 9
+    [vlastny_mladez] => 
+    [prvy_krat] => 1
+    [poznamka] => :D
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 1
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 10
+            [2] => 11
+        )
+
+    [alergie] => Array
+        (
+            [0] => 4
+        )
+
+    [vlastne_alergie] => tehly
+)
+
+[25-Apr-2025 10:52:12 Europe/Prague] User registration type: ucastnik
+[25-Apr-2025 10:52:12 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[25-Apr-2025 10:52:12 Europe/Prague] Array
+(
+    [meno] => sbfb
+    [priezvisko] => bsdbsb
+    [email] => amamdvs@gmai.cl
+    [datum_narodenia] => 2004-04-04
+    [pohlavie] => muz
+    [mladez_id] => 9
+    [vlastny_mladez] => 
+    [prvy_krat] => 1
+    [poznamka] => :D
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 1
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 10
+            [2] => 11
+        )
+
+    [alergie] => Array
+        (
+            [0] => 4
+        )
+
+    [vlastne_alergie] => tehly
+)
+
+[25-Apr-2025 10:52:12 Europe/Prague] [info]: Processing registration for: amamdvs@gmai.cl
+[25-Apr-2025 10:52:12 Europe/Prague] [info]: Registration type: ucastnik
+[25-Apr-2025 10:52:12 Europe/Prague] [info]: Successfully created user record with ID: 36
+[25-Apr-2025 10:52:12 Europe/Prague] [info]: Added activities for user ID: 36
+[25-Apr-2025 10:52:12 Europe/Prague] [info]: Allergies to insert: ["4"]
+[25-Apr-2025 10:52:12 Europe/Prague] [info]: Inserted allergy ID 4 for user 36
+[25-Apr-2025 10:52:12 Europe/Prague] [info]: Added allergies for user ID: 36
+[25-Apr-2025 10:52:12 Europe/Prague] [info]: Processing custom allergies: tehly
+[25-Apr-2025 10:52:12 Europe/Prague] [info]: Created custom allergy record with ID: 27
+[25-Apr-2025 10:52:12 Europe/Prague] [info]: Successfully linked custom allergy 27 to user 36
+[25-Apr-2025 10:52:12 Europe/Prague] [info]: Added accommodation ID: 1 for user ID: 36
+[25-Apr-2025 10:52:12 Europe/Prague] [info]: Successful registration for amamdvs@gmai.cl
+[25-Apr-2025 10:52:12 Europe/Prague] Registration result: Array
+(
+    [success] => 1
+    [id] => 36
+)
+
+[25-Apr-2025 10:52:12 Europe/Prague] ==== KONIEC REGISTRÁCIE ====
+[25-Apr-2025 10:52:59 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[25-Apr-2025 10:52:59 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[25-Apr-2025 10:52:59 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[25-Apr-2025 10:52:59 Europe/Prague] [info]: Activities query executed: success
+[25-Apr-2025 10:52:59 Europe/Prague] [info]: Found 16 available activities
+[25-Apr-2025 10:53:00 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[26-Apr-2025 00:12:46 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[26-Apr-2025 00:12:46 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[26-Apr-2025 00:12:46 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[26-Apr-2025 00:12:46 Europe/Prague] [info]: Activities query executed: success
+[26-Apr-2025 00:12:46 Europe/Prague] [info]: Found 16 available activities
+[26-Apr-2025 00:12:46 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[05-May-2025 21:36:00 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[05-May-2025 21:36:00 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[05-May-2025 21:36:00 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[05-May-2025 21:36:00 Europe/Prague] [info]: Activities query executed: success
+[05-May-2025 21:36:00 Europe/Prague] [info]: Found 16 available activities
+[05-May-2025 21:36:00 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[05-May-2025 21:39:36 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[05-May-2025 21:39:36 Europe/Prague] [info]: Getting accommodations for gender: muz, type: ucastnik
+[05-May-2025 21:39:36 Europe/Prague] [info]: Accommodation query result: 2 rows
+[05-May-2025 21:39:55 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[05-May-2025 21:39:55 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[05-May-2025 21:39:55 Europe/Prague] POST DATA: Array
+(
+    [typ] => ucastnik
+    [meno] => jvadb j
+    [priezvisko] => j zbj bz
+    [email] => kjdbjksdbv@jsvdbvks.c
+    [datum_narodenia] => 2005-05-05
+    [pohlavie] => muz
+    [mladez_id] => 4
+    [vlastny_mladez] => 
+    [ubytovanie_id] => 1
+    [vlastne_alergie] => 
+    [poznamka] => 
+    [gdpr] => on
+)
+
+[05-May-2025 21:39:55 Europe/Prague] Registration type: ucastnik
+[05-May-2025 21:39:55 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => jvadb j
+    [priezvisko] => j zbj bz
+    [email] => kjdbjksdbv@jsvdbvks.c
+    [datum_narodenia] => 2005-05-05
+    [pohlavie] => muz
+    [mladez_id] => 4
+    [vlastny_mladez] => 
+    [prvy_krat] => 
+    [poznamka] => 
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 1
+    [aktivity] => Array
+        (
+        )
+
+    [alergie] => Array
+        (
+        )
+
+    [vlastne_alergie] => 
+)
+
+[05-May-2025 21:39:55 Europe/Prague] User registration type: ucastnik
+[05-May-2025 21:39:55 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[05-May-2025 21:39:55 Europe/Prague] Array
+(
+    [meno] => jvadb j
+    [priezvisko] => j zbj bz
+    [email] => kjdbjksdbv@jsvdbvks.c
+    [datum_narodenia] => 2005-05-05
+    [pohlavie] => muz
+    [mladez_id] => 4
+    [vlastny_mladez] => 
+    [prvy_krat] => 
+    [poznamka] => 
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 1
+    [aktivity] => Array
+        (
+        )
+
+    [alergie] => Array
+        (
+        )
+
+    [vlastne_alergie] => 
+)
+
+[05-May-2025 21:39:55 Europe/Prague] [info]: Processing registration for: kjdbjksdbv@jsvdbvks.c
+[05-May-2025 21:39:55 Europe/Prague] [info]: Registration type: ucastnik
+[05-May-2025 21:39:55 Europe/Prague] [info]: Successfully created user record with ID: 37
+[05-May-2025 21:39:55 Europe/Prague] [info]: Added accommodation ID: 1 for user ID: 37
+[05-May-2025 21:39:55 Europe/Prague] [info]: Successful registration for kjdbjksdbv@jsvdbvks.c
+[05-May-2025 21:39:55 Europe/Prague] Registration result: Array
+(
+    [success] => 1
+    [id] => 37
+)
+
+[05-May-2025 21:39:55 Europe/Prague] ==== KONIEC REGISTRÁCIE ====
+[05-May-2025 21:40:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[05-May-2025 21:40:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[05-May-2025 21:40:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[05-May-2025 21:40:11 Europe/Prague] [info]: Activities query executed: success
+[05-May-2025 21:40:11 Europe/Prague] [info]: Found 16 available activities
+[05-May-2025 21:40:11 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[05-May-2025 21:40:29 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[05-May-2025 21:40:30 Europe/Prague] [info]: Getting accommodations for gender: zena, type: ucastnik
+[05-May-2025 21:40:30 Europe/Prague] [info]: Accommodation query result: 2 rows
+[05-May-2025 21:40:42 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[05-May-2025 21:40:42 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[05-May-2025 21:40:42 Europe/Prague] POST DATA: Array
+(
+    [typ] => ucastnik
+    [meno] => ljvskdj x
+    [priezvisko] => , xnc,m x
+    [email] => micuchmartin19@gmail.com
+    [datum_narodenia] => 2005-05-05
+    [pohlavie] => zena
+    [mladez_id] => iny
+    [vlastny_mladez] => bomba
+    [ubytovanie_id] => 5
+    [vlastne_alergie] => 
+    [poznamka] => 
+    [gdpr] => on
+)
+
+[05-May-2025 21:40:42 Europe/Prague] Registration type: ucastnik
+[05-May-2025 21:40:42 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => ljvskdj x
+    [priezvisko] => , xnc,m x
+    [email] => micuchmartin19@gmail.com
+    [datum_narodenia] => 2005-05-05
+    [pohlavie] => zena
+    [mladez_id] => iny
+    [vlastny_mladez] => bomba
+    [prvy_krat] => 
+    [poznamka] => 
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 5
+    [aktivity] => Array
+        (
+        )
+
+    [alergie] => Array
+        (
+        )
+
+    [vlastne_alergie] => 
+)
+
+[05-May-2025 21:40:42 Europe/Prague] User registration type: ucastnik
+[05-May-2025 21:40:42 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[05-May-2025 21:40:42 Europe/Prague] Array
+(
+    [meno] => ljvskdj x
+    [priezvisko] => , xnc,m x
+    [email] => micuchmartin19@gmail.com
+    [datum_narodenia] => 2005-05-05
+    [pohlavie] => zena
+    [mladez_id] => iny
+    [vlastny_mladez] => bomba
+    [prvy_krat] => 
+    [poznamka] => 
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 5
+    [aktivity] => Array
+        (
+        )
+
+    [alergie] => Array
+        (
+        )
+
+    [vlastne_alergie] => 
+)
+
+[05-May-2025 21:40:43 Europe/Prague] [info]: Processing registration for: micuchmartin19@gmail.com
+[05-May-2025 21:40:43 Europe/Prague] [info]: Registration type: ucastnik
+[05-May-2025 21:40:43 Europe/Prague] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /var/www/clients/client5/web40/web/register/api/database.php:550
+Stack trace:
+#0 /var/www/clients/client5/web40/web/register/api/database.php(550): mysqli->close()
+#1 /var/www/clients/client5/web40/web/register/api-direct.php(255): registerParticipant()
+#2 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/database.php on line 550
+[06-May-2025 20:15:21 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:15:21 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:15:21 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:15:21 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:15:21 Europe/Prague] [info]: Found 16 available activities
+[06-May-2025 20:15:21 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:15:33 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:15:33 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:15:33 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:15:33 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:15:33 Europe/Prague] [info]: Found 16 available activities
+[06-May-2025 20:15:33 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:37:27 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:37:27 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:37:27 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:37:27 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:37:27 Europe/Prague] [info]: Found 16 available activities
+[06-May-2025 20:37:27 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:38:19 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:38:19 Europe/Prague] [info]: Getting accommodations for gender: muz, type: ucastnik
+[06-May-2025 20:38:19 Europe/Prague] [info]: Accommodation query result: 2 rows
+[06-May-2025 20:38:19 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:38:19 Europe/Prague] [info]: Getting accommodations for gender: zena, type: ucastnik
+[06-May-2025 20:38:19 Europe/Prague] [info]: Accommodation query result: 2 rows
+[06-May-2025 20:40:40 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:40:40 Europe/Prague] [info]: Getting accommodations for gender: muz, type: ucastnik
+[06-May-2025 20:40:40 Europe/Prague] [info]: Accommodation query result: 2 rows
+[06-May-2025 20:40:41 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:40:41 Europe/Prague] [info]: Getting accommodations for gender: zena, type: ucastnik
+[06-May-2025 20:40:41 Europe/Prague] [info]: Accommodation query result: 2 rows
+[06-May-2025 20:42:42 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:42:42 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[06-May-2025 20:42:42 Europe/Prague] POST DATA: Array
+(
+    [typ] => ucastnik
+    [aktivity] => Array
+        (
+            [0] => 14
+            [1] => 2
+            [2] => 12
+        )
+
+    [meno] => Tita
+    [priezvisko] => Stampová
+    [email] => nepoznam.jejmail@gmail.com
+    [datum_narodenia] => 1911-11-11
+    [pohlavie] => zena
+    [mladez_id] => 1
+    [vlastny_mladez] => 
+    [prvy_krat] => on
+    [activity-streda] => 14
+    [activity-stvrtok] => 2
+    [activity-piatok] => 12
+    [ubytovanie_id] => 5
+    [alergie] => Array
+        (
+            [0] => 1
+            [1] => 6
+            [2] => 10
+            [3] => 12
+        )
+
+    [vlastne_alergie] => Otravné formuláre
+    [poznamka] => Mám rád latríny
+    [gdpr] => on
+)
+
+[06-May-2025 20:42:42 Europe/Prague] Registration type: ucastnik
+[06-May-2025 20:42:42 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => Tita
+    [priezvisko] => Stampová
+    [email] => nepoznam.jejmail@gmail.com
+    [datum_narodenia] => 1911-11-11
+    [pohlavie] => zena
+    [mladez_id] => 1
+    [vlastny_mladez] => 
+    [prvy_krat] => 1
+    [poznamka] => Mám rád latríny
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 5
+    [aktivity] => Array
+        (
+            [0] => 14
+            [1] => 2
+            [2] => 12
+        )
+
+    [alergie] => Array
+        (
+            [0] => 1
+            [1] => 6
+            [2] => 10
+            [3] => 12
+        )
+
+    [vlastne_alergie] => Otravné formuláre
+)
+
+[06-May-2025 20:42:42 Europe/Prague] User registration type: ucastnik
+[06-May-2025 20:42:42 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[06-May-2025 20:42:42 Europe/Prague] Array
+(
+    [meno] => Tita
+    [priezvisko] => Stampová
+    [email] => nepoznam.jejmail@gmail.com
+    [datum_narodenia] => 1911-11-11
+    [pohlavie] => zena
+    [mladez_id] => 1
+    [vlastny_mladez] => 
+    [prvy_krat] => 1
+    [poznamka] => Mám rád latríny
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 5
+    [aktivity] => Array
+        (
+            [0] => 14
+            [1] => 2
+            [2] => 12
+        )
+
+    [alergie] => Array
+        (
+            [0] => 1
+            [1] => 6
+            [2] => 10
+            [3] => 12
+        )
+
+    [vlastne_alergie] => Otravné formuláre
+)
+
+[06-May-2025 20:42:42 Europe/Prague] [info]: Processing registration for: nepoznam.jejmail@gmail.com
+[06-May-2025 20:42:42 Europe/Prague] [info]: Registration type: ucastnik
+[06-May-2025 20:42:42 Europe/Prague] [info]: Successfully created user record with ID: 38
+[06-May-2025 20:42:42 Europe/Prague] [info]: Added activities for user ID: 38
+[06-May-2025 20:42:42 Europe/Prague] [info]: Allergies to insert: ["1","6","10","12"]
+[06-May-2025 20:42:42 Europe/Prague] [info]: Inserted allergy ID 1 for user 38
+[06-May-2025 20:42:42 Europe/Prague] [info]: Inserted allergy ID 6 for user 38
+[06-May-2025 20:42:42 Europe/Prague] [info]: Inserted allergy ID 10 for user 38
+[06-May-2025 20:42:42 Europe/Prague] [info]: Inserted allergy ID 12 for user 38
+[06-May-2025 20:42:42 Europe/Prague] [info]: Added allergies for user ID: 38
+[06-May-2025 20:42:42 Europe/Prague] [info]: Processing custom allergies: Otravné formuláre
+[06-May-2025 20:42:42 Europe/Prague] [info]: Created custom allergy record with ID: 28
+[06-May-2025 20:42:42 Europe/Prague] [info]: Successfully linked custom allergy 28 to user 38
+[06-May-2025 20:42:42 Europe/Prague] [info]: Added accommodation ID: 5 for user ID: 38
+[06-May-2025 20:42:42 Europe/Prague] [info]: Successful registration for nepoznam.jejmail@gmail.com
+[06-May-2025 20:42:42 Europe/Prague] Registration result: Array
+(
+    [success] => 1
+    [id] => 38
+)
+
+[06-May-2025 20:42:42 Europe/Prague] ==== KONIEC REGISTRÁCIE ====
+[06-May-2025 20:44:33 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:44:33 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:44:33 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:44:33 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:44:33 Europe/Prague] [info]: Found 16 available activities
+[06-May-2025 20:44:34 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:44:45 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:44:45 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:44:45 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:44:45 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:44:45 Europe/Prague] [info]: Found 16 available activities
+[06-May-2025 20:44:46 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:44:57 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:44:57 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:44:57 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:44:57 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:44:57 Europe/Prague] [info]: Found 16 available activities
+[06-May-2025 20:44:58 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:45:38 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:45:38 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:45:38 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:45:38 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:45:38 Europe/Prague] [info]: Found 16 available activities
+[06-May-2025 20:45:39 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:46:35 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:46:35 Europe/Prague] [info]: Getting accommodations for gender: muz, type: veduci
+[06-May-2025 20:46:35 Europe/Prague] [info]: Accommodation query result: 2 rows
+[06-May-2025 20:47:13 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:47:13 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:47:13 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:47:13 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:47:13 Europe/Prague] [info]: Found 16 available activities
+[06-May-2025 20:47:14 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:47:17 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:47:17 Europe/Prague] [info]: Getting accommodations for gender: muz, type: veduci
+[06-May-2025 20:47:17 Europe/Prague] [info]: Accommodation query result: 2 rows
+[06-May-2025 20:47:21 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:47:21 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:47:21 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:47:21 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:47:21 Europe/Prague] [info]: Found 16 available activities
+[06-May-2025 20:47:21 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:47:22 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:47:22 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:47:22 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:47:22 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:47:22 Europe/Prague] [info]: Found 16 available activities
+[06-May-2025 20:47:22 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:47:27 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:47:27 Europe/Prague] [info]: Getting accommodations for gender: muz, type: veduci
+[06-May-2025 20:47:27 Europe/Prague] [info]: Accommodation query result: 2 rows
+[06-May-2025 20:48:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:48:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:48:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:48:10 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:48:10 Europe/Prague] [info]: Found 16 available activities
+[06-May-2025 20:48:11 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:48:12 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:48:12 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:48:12 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:48:12 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:48:12 Europe/Prague] [info]: Found 16 available activities
+[06-May-2025 20:48:12 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:48:14 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:48:14 Europe/Prague] [info]: Getting accommodations for gender: zena, type: veduci
+[06-May-2025 20:48:14 Europe/Prague] [info]: Accommodation query result: 4 rows
+[06-May-2025 20:48:26 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:48:26 Europe/Prague] [info]: Getting accommodations for gender: muz, type: veduci
+[06-May-2025 20:48:26 Europe/Prague] [info]: Accommodation query result: 3 rows
+[06-May-2025 20:48:33 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:48:33 Europe/Prague] [info]: Getting accommodations for gender: zena, type: veduci
+[06-May-2025 20:48:33 Europe/Prague] [info]: Accommodation query result: 4 rows
+[06-May-2025 20:49:29 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:49:40 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:49:40 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:49:40 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:49:40 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:49:40 Europe/Prague] [info]: Found 16 available activities
+[06-May-2025 20:49:40 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:49:52 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:49:52 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:49:52 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:49:52 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:49:52 Europe/Prague] [info]: Found 16 available activities
+[06-May-2025 20:49:52 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:50:07 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:50:07 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:50:07 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:50:07 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:50:07 Europe/Prague] [info]: Found 16 available activities
+[06-May-2025 20:50:07 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:50:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:50:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:50:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:50:10 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:50:10 Europe/Prague] [info]: Found 16 available activities
+[06-May-2025 20:50:11 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:50:11 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:50:11 Europe/Prague] [info]: Getting accommodations for gender: zena, type: ucastnik
+[06-May-2025 20:50:11 Europe/Prague] [info]: Accommodation query result: 3 rows
+[06-May-2025 20:50:14 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:50:14 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:50:14 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:50:14 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:50:14 Europe/Prague] [info]: Found 16 available activities
+[06-May-2025 20:50:14 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:50:37 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:50:37 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[06-May-2025 20:50:37 Europe/Prague] POST DATA: Array
+(
+    [typ] => ucastnik
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 2
+            [2] => 12
+        )
+
+    [meno] => Tímea Tita 
+    [priezvisko] => Stanová
+    [email] => stanova.timea@gmail.com
+    [datum_narodenia] => 2002-07-17
+    [pohlavie] => zena
+    [mladez_id] => 1
+    [vlastny_mladez] => 
+    [activity-streda] => 1
+    [activity-stvrtok] => 2
+    [activity-piatok] => 12
+    [ubytovanie_id] => 2
+    [alergie] => Array
+        (
+            [0] => 6
+            [1] => 9
+        )
+
+    [vlastne_alergie] => 
+    [poznamka] => 
+    [gdpr] => on
+)
+
+[06-May-2025 20:50:37 Europe/Prague] Registration type: ucastnik
+[06-May-2025 20:50:37 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => Tímea Tita 
+    [priezvisko] => Stanová
+    [email] => stanova.timea@gmail.com
+    [datum_narodenia] => 2002-07-17
+    [pohlavie] => zena
+    [mladez_id] => 1
+    [vlastny_mladez] => 
+    [prvy_krat] => 
+    [poznamka] => 
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 2
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 2
+            [2] => 12
+        )
+
+    [alergie] => Array
+        (
+            [0] => 6
+            [1] => 9
+        )
+
+    [vlastne_alergie] => 
+)
+
+[06-May-2025 20:50:37 Europe/Prague] User registration type: ucastnik
+[06-May-2025 20:50:37 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[06-May-2025 20:50:37 Europe/Prague] Array
+(
+    [meno] => Tímea Tita 
+    [priezvisko] => Stanová
+    [email] => stanova.timea@gmail.com
+    [datum_narodenia] => 2002-07-17
+    [pohlavie] => zena
+    [mladez_id] => 1
+    [vlastny_mladez] => 
+    [prvy_krat] => 
+    [poznamka] => 
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 2
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 2
+            [2] => 12
+        )
+
+    [alergie] => Array
+        (
+            [0] => 6
+            [1] => 9
+        )
+
+    [vlastne_alergie] => 
+)
+
+[06-May-2025 20:50:37 Europe/Prague] [info]: Processing registration for: stanova.timea@gmail.com
+[06-May-2025 20:50:37 Europe/Prague] [info]: Registration type: ucastnik
+[06-May-2025 20:50:37 Europe/Prague] [info]: Successfully created user record with ID: 39
+[06-May-2025 20:50:37 Europe/Prague] [info]: Added activities for user ID: 39
+[06-May-2025 20:50:37 Europe/Prague] [info]: Allergies to insert: ["6","9"]
+[06-May-2025 20:50:37 Europe/Prague] [info]: Inserted allergy ID 6 for user 39
+[06-May-2025 20:50:37 Europe/Prague] [info]: Inserted allergy ID 9 for user 39
+[06-May-2025 20:50:37 Europe/Prague] [info]: Added allergies for user ID: 39
+[06-May-2025 20:50:37 Europe/Prague] [info]: Added accommodation ID: 2 for user ID: 39
+[06-May-2025 20:50:37 Europe/Prague] [info]: Successful registration for stanova.timea@gmail.com
+[06-May-2025 20:50:37 Europe/Prague] Registration result: Array
+(
+    [success] => 1
+    [id] => 39
+)
+
+[06-May-2025 20:50:37 Europe/Prague] ==== KONIEC REGISTRÁCIE ====
+[06-May-2025 20:50:42 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:50:42 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:50:42 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:50:42 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:50:42 Europe/Prague] [info]: Found 16 available activities
+[06-May-2025 20:50:43 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:51:02 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:51:02 Europe/Prague] [info]: Getting accommodations for gender: zena, type: veduci
+[06-May-2025 20:51:02 Europe/Prague] [info]: Accommodation query result: 4 rows
+[06-May-2025 20:51:34 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:51:34 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[06-May-2025 20:51:34 Europe/Prague] POST DATA: Array
+(
+    [typ] => veduci
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 2
+            [2] => 12
+        )
+
+    [meno] => Tita
+    [priezvisko] => Stanová
+    [email] => stanova.timea@gmail.com
+    [datum_narodenia] => 2002-07-17
+    [pohlavie] => zena
+    [mladez_id] => iny
+    [vlastny_mladez] => Kostol na Hrane
+    [prvy_krat] => on
+    [activity-streda] => 1
+    [activity-stvrtok] => 2
+    [activity-piatok] => 12
+    [ubytovanie_id] => 4
+    [alergie] => Array
+        (
+            [0] => 6
+            [1] => 9
+        )
+
+    [vlastne_alergie] => 
+    [poznamka] => 
+    [gdpr] => on
+    [token] => 7a4189fb-3a97-48f0-bf26-acad63c25e95
+)
+
+[06-May-2025 20:51:34 Europe/Prague] Registration type: veduci
+[06-May-2025 20:51:34 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => Tita
+    [priezvisko] => Stanová
+    [email] => stanova.timea@gmail.com
+    [datum_narodenia] => 2002-07-17
+    [pohlavie] => zena
+    [mladez_id] => iny
+    [vlastny_mladez] => Kostol na Hrane
+    [prvy_krat] => 1
+    [poznamka] => 
+    [gdpr] => 1
+    [typ] => veduci
+    [ubytovanie_id] => 4
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 2
+            [2] => 12
+        )
+
+    [alergie] => Array
+        (
+            [0] => 6
+            [1] => 9
+        )
+
+    [vlastne_alergie] => 
+)
+
+[06-May-2025 20:51:34 Europe/Prague] User registration type: veduci
+[06-May-2025 20:51:34 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[06-May-2025 20:51:34 Europe/Prague] Array
+(
+    [meno] => Tita
+    [priezvisko] => Stanová
+    [email] => stanova.timea@gmail.com
+    [datum_narodenia] => 2002-07-17
+    [pohlavie] => zena
+    [mladez_id] => iny
+    [vlastny_mladez] => Kostol na Hrane
+    [prvy_krat] => 1
+    [poznamka] => 
+    [gdpr] => 1
+    [typ] => veduci
+    [ubytovanie_id] => 4
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 2
+            [2] => 12
+        )
+
+    [alergie] => Array
+        (
+            [0] => 6
+            [1] => 9
+        )
+
+    [vlastne_alergie] => 
+)
+
+[06-May-2025 20:51:34 Europe/Prague] [info]: Processing registration for: stanova.timea@gmail.com
+[06-May-2025 20:51:34 Europe/Prague] [info]: Registration type: veduci
+[06-May-2025 20:51:34 Europe/Prague] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /var/www/clients/client5/web40/web/register/api/database.php:550
+Stack trace:
+#0 /var/www/clients/client5/web40/web/register/api/database.php(550): mysqli->close()
+#1 /var/www/clients/client5/web40/web/register/api-direct.php(255): registerParticipant()
+#2 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/database.php on line 550
+[06-May-2025 20:51:36 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:51:36 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[06-May-2025 20:51:36 Europe/Prague] POST DATA: Array
+(
+    [typ] => veduci
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 2
+            [2] => 12
+        )
+
+    [meno] => Tita
+    [priezvisko] => Stanová
+    [email] => stanova.timea@gmail.com
+    [datum_narodenia] => 2002-07-17
+    [pohlavie] => zena
+    [mladez_id] => iny
+    [vlastny_mladez] => Kostol na Hrane
+    [prvy_krat] => on
+    [activity-streda] => 1
+    [activity-stvrtok] => 2
+    [activity-piatok] => 12
+    [ubytovanie_id] => 4
+    [alergie] => Array
+        (
+            [0] => 6
+            [1] => 9
+        )
+
+    [vlastne_alergie] => 
+    [poznamka] => 
+    [gdpr] => on
+    [token] => 7a4189fb-3a97-48f0-bf26-acad63c25e95
+)
+
+[06-May-2025 20:51:36 Europe/Prague] Registration type: veduci
+[06-May-2025 20:51:36 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => Tita
+    [priezvisko] => Stanová
+    [email] => stanova.timea@gmail.com
+    [datum_narodenia] => 2002-07-17
+    [pohlavie] => zena
+    [mladez_id] => iny
+    [vlastny_mladez] => Kostol na Hrane
+    [prvy_krat] => 1
+    [poznamka] => 
+    [gdpr] => 1
+    [typ] => veduci
+    [ubytovanie_id] => 4
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 2
+            [2] => 12
+        )
+
+    [alergie] => Array
+        (
+            [0] => 6
+            [1] => 9
+        )
+
+    [vlastne_alergie] => 
+)
+
+[06-May-2025 20:51:36 Europe/Prague] User registration type: veduci
+[06-May-2025 20:51:36 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[06-May-2025 20:51:36 Europe/Prague] Array
+(
+    [meno] => Tita
+    [priezvisko] => Stanová
+    [email] => stanova.timea@gmail.com
+    [datum_narodenia] => 2002-07-17
+    [pohlavie] => zena
+    [mladez_id] => iny
+    [vlastny_mladez] => Kostol na Hrane
+    [prvy_krat] => 1
+    [poznamka] => 
+    [gdpr] => 1
+    [typ] => veduci
+    [ubytovanie_id] => 4
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 2
+            [2] => 12
+        )
+
+    [alergie] => Array
+        (
+            [0] => 6
+            [1] => 9
+        )
+
+    [vlastne_alergie] => 
+)
+
+[06-May-2025 20:51:36 Europe/Prague] [info]: Processing registration for: stanova.timea@gmail.com
+[06-May-2025 20:51:36 Europe/Prague] [info]: Registration type: veduci
+[06-May-2025 20:51:36 Europe/Prague] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /var/www/clients/client5/web40/web/register/api/database.php:550
+Stack trace:
+#0 /var/www/clients/client5/web40/web/register/api/database.php(550): mysqli->close()
+#1 /var/www/clients/client5/web40/web/register/api-direct.php(255): registerParticipant()
+#2 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/database.php on line 550
+[06-May-2025 20:52:01 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:52:01 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[06-May-2025 20:52:01 Europe/Prague] POST DATA: Array
+(
+    [typ] => veduci
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 2
+            [2] => 12
+        )
+
+    [meno] => Tita
+    [priezvisko] => Stanová
+    [email] => stanova.timea@gmail.com
+    [datum_narodenia] => 2002-07-17
+    [pohlavie] => zena
+    [mladez_id] => iny
+    [vlastny_mladez] => Kostol na Hrane
+    [prvy_krat] => on
+    [activity-streda] => 1
+    [activity-stvrtok] => 2
+    [activity-piatok] => 12
+    [ubytovanie_id] => 4
+    [alergie] => Array
+        (
+            [0] => 6
+            [1] => 9
+        )
+
+    [vlastne_alergie] => 
+    [poznamka] => 
+    [gdpr] => on
+    [token] => 7a4189fb-3a97-48f0-bf26-acad63c25e95
+)
+
+[06-May-2025 20:52:01 Europe/Prague] Registration type: veduci
+[06-May-2025 20:52:01 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => Tita
+    [priezvisko] => Stanová
+    [email] => stanova.timea@gmail.com
+    [datum_narodenia] => 2002-07-17
+    [pohlavie] => zena
+    [mladez_id] => iny
+    [vlastny_mladez] => Kostol na Hrane
+    [prvy_krat] => 1
+    [poznamka] => 
+    [gdpr] => 1
+    [typ] => veduci
+    [ubytovanie_id] => 4
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 2
+            [2] => 12
+        )
+
+    [alergie] => Array
+        (
+            [0] => 6
+            [1] => 9
+        )
+
+    [vlastne_alergie] => 
+)
+
+[06-May-2025 20:52:01 Europe/Prague] User registration type: veduci
+[06-May-2025 20:52:01 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[06-May-2025 20:52:01 Europe/Prague] Array
+(
+    [meno] => Tita
+    [priezvisko] => Stanová
+    [email] => stanova.timea@gmail.com
+    [datum_narodenia] => 2002-07-17
+    [pohlavie] => zena
+    [mladez_id] => iny
+    [vlastny_mladez] => Kostol na Hrane
+    [prvy_krat] => 1
+    [poznamka] => 
+    [gdpr] => 1
+    [typ] => veduci
+    [ubytovanie_id] => 4
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 2
+            [2] => 12
+        )
+
+    [alergie] => Array
+        (
+            [0] => 6
+            [1] => 9
+        )
+
+    [vlastne_alergie] => 
+)
+
+[06-May-2025 20:52:01 Europe/Prague] [info]: Processing registration for: stanova.timea@gmail.com
+[06-May-2025 20:52:01 Europe/Prague] [info]: Registration type: veduci
+[06-May-2025 20:52:01 Europe/Prague] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /var/www/clients/client5/web40/web/register/api/database.php:550
+Stack trace:
+#0 /var/www/clients/client5/web40/web/register/api/database.php(550): mysqli->close()
+#1 /var/www/clients/client5/web40/web/register/api-direct.php(255): registerParticipant()
+#2 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/database.php on line 550
+[06-May-2025 20:52:04 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:52:04 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:52:04 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:52:04 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:52:04 Europe/Prague] [info]: Found 16 available activities
+[06-May-2025 20:52:05 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:52:21 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:52:21 Europe/Prague] [info]: Getting accommodations for gender: muz, type: ucastnik
+[06-May-2025 20:52:21 Europe/Prague] [info]: Accommodation query result: 2 rows
+[06-May-2025 20:52:26 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:52:26 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:52:26 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:52:26 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:52:26 Europe/Prague] [info]: Found 16 available activities
+[06-May-2025 20:52:26 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:52:34 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:52:34 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[06-May-2025 20:52:34 Europe/Prague] POST DATA: Array
+(
+    [typ] => veduci
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 2
+            [2] => 12
+        )
+
+    [meno] => Tita
+    [priezvisko] => Stanová
+    [email] => stanovatimea@gmail.com
+    [datum_narodenia] => 2002-07-17
+    [pohlavie] => zena
+    [mladez_id] => iny
+    [vlastny_mladez] => Kostol na Hrane
+    [prvy_krat] => on
+    [activity-streda] => 1
+    [activity-stvrtok] => 2
+    [activity-piatok] => 12
+    [ubytovanie_id] => 4
+    [alergie] => Array
+        (
+            [0] => 6
+            [1] => 9
+        )
+
+    [vlastne_alergie] => 
+    [poznamka] => Iba že mi nejde prihlásiť 
+    [gdpr] => on
+    [token] => 7a4189fb-3a97-48f0-bf26-acad63c25e95
+)
+
+[06-May-2025 20:52:34 Europe/Prague] Registration type: veduci
+[06-May-2025 20:52:34 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => Tita
+    [priezvisko] => Stanová
+    [email] => stanovatimea@gmail.com
+    [datum_narodenia] => 2002-07-17
+    [pohlavie] => zena
+    [mladez_id] => iny
+    [vlastny_mladez] => Kostol na Hrane
+    [prvy_krat] => 1
+    [poznamka] => Iba že mi nejde prihlásiť 
+    [gdpr] => 1
+    [typ] => veduci
+    [ubytovanie_id] => 4
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 2
+            [2] => 12
+        )
+
+    [alergie] => Array
+        (
+            [0] => 6
+            [1] => 9
+        )
+
+    [vlastne_alergie] => 
+)
+
+[06-May-2025 20:52:34 Europe/Prague] User registration type: veduci
+[06-May-2025 20:52:34 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[06-May-2025 20:52:34 Europe/Prague] Array
+(
+    [meno] => Tita
+    [priezvisko] => Stanová
+    [email] => stanovatimea@gmail.com
+    [datum_narodenia] => 2002-07-17
+    [pohlavie] => zena
+    [mladez_id] => iny
+    [vlastny_mladez] => Kostol na Hrane
+    [prvy_krat] => 1
+    [poznamka] => Iba že mi nejde prihlásiť 
+    [gdpr] => 1
+    [typ] => veduci
+    [ubytovanie_id] => 4
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 2
+            [2] => 12
+        )
+
+    [alergie] => Array
+        (
+            [0] => 6
+            [1] => 9
+        )
+
+    [vlastne_alergie] => 
+)
+
+[06-May-2025 20:52:34 Europe/Prague] [info]: Processing registration for: stanovatimea@gmail.com
+[06-May-2025 20:52:34 Europe/Prague] [info]: Registration type: veduci
+[06-May-2025 20:52:34 Europe/Prague] [info]: Successfully created user record with ID: 40
+[06-May-2025 20:52:34 Europe/Prague] [info]: Added activities for user ID: 40
+[06-May-2025 20:52:34 Europe/Prague] [info]: Allergies to insert: ["6","9"]
+[06-May-2025 20:52:34 Europe/Prague] [info]: Inserted allergy ID 6 for user 40
+[06-May-2025 20:52:34 Europe/Prague] [info]: Inserted allergy ID 9 for user 40
+[06-May-2025 20:52:34 Europe/Prague] [info]: Added allergies for user ID: 40
+[06-May-2025 20:52:34 Europe/Prague] [info]: Added accommodation ID: 4 for user ID: 40
+[06-May-2025 20:52:34 Europe/Prague] [info]: Successful registration for stanovatimea@gmail.com
+[06-May-2025 20:52:34 Europe/Prague] Registration result: Array
+(
+    [success] => 1
+    [id] => 40
+)
+
+[06-May-2025 20:52:34 Europe/Prague] ==== KONIEC REGISTRÁCIE ====
+[06-May-2025 20:52:54 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:52:54 Europe/Prague] [info]: Getting accommodations for gender: muz, type: veduci
+[06-May-2025 20:52:54 Europe/Prague] [info]: Accommodation query result: 2 rows
+[06-May-2025 20:53:32 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:53:48 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:53:48 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:53:49 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:53:49 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:53:49 Europe/Prague] [info]: Found 15 available activities
+[06-May-2025 20:53:49 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:53:58 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:53:58 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[06-May-2025 20:53:58 Europe/Prague] POST DATA: Array
+(
+    [typ] => veduci
+    [aktivity] => Array
+        (
+            [0] => 9
+            [1] => 2
+            [2] => 3
+        )
+
+    [meno] => David
+    [priezvisko] => Cekov
+    [email] => davidcekov@gmail.com
+    [datum_narodenia] => 1993-03-25
+    [pohlavie] => muz
+    [mladez_id] => 3
+    [vlastny_mladez] => 
+    [activity-streda] => 9
+    [activity-stvrtok] => 2
+    [activity-piatok] => 3
+    [ubytovanie_id] => 5
+    [vlastne_alergie] => 
+    [poznamka] => 
+    [gdpr] => on
+    [token] => 7a4189fb-3a97-48f0-bf26-acad63c25e95
+)
+
+[06-May-2025 20:53:58 Europe/Prague] Registration type: veduci
+[06-May-2025 20:53:58 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => David
+    [priezvisko] => Cekov
+    [email] => davidcekov@gmail.com
+    [datum_narodenia] => 1993-03-25
+    [pohlavie] => muz
+    [mladez_id] => 3
+    [vlastny_mladez] => 
+    [prvy_krat] => 
+    [poznamka] => 
+    [gdpr] => 1
+    [typ] => veduci
+    [ubytovanie_id] => 5
+    [aktivity] => Array
+        (
+            [0] => 9
+            [1] => 2
+            [2] => 3
+        )
+
+    [alergie] => Array
+        (
+        )
+
+    [vlastne_alergie] => 
+)
+
+[06-May-2025 20:53:58 Europe/Prague] User registration type: veduci
+[06-May-2025 20:53:58 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[06-May-2025 20:53:58 Europe/Prague] Array
+(
+    [meno] => David
+    [priezvisko] => Cekov
+    [email] => davidcekov@gmail.com
+    [datum_narodenia] => 1993-03-25
+    [pohlavie] => muz
+    [mladez_id] => 3
+    [vlastny_mladez] => 
+    [prvy_krat] => 
+    [poznamka] => 
+    [gdpr] => 1
+    [typ] => veduci
+    [ubytovanie_id] => 5
+    [aktivity] => Array
+        (
+            [0] => 9
+            [1] => 2
+            [2] => 3
+        )
+
+    [alergie] => Array
+        (
+        )
+
+    [vlastne_alergie] => 
+)
+
+[06-May-2025 20:53:58 Europe/Prague] [info]: Processing registration for: davidcekov@gmail.com
+[06-May-2025 20:53:58 Europe/Prague] [info]: Registration type: veduci
+[06-May-2025 20:53:58 Europe/Prague] [info]: Successfully created user record with ID: 41
+[06-May-2025 20:53:58 Europe/Prague] [info]: Added activities for user ID: 41
+[06-May-2025 20:53:58 Europe/Prague] [info]: Added accommodation ID: 5 for user ID: 41
+[06-May-2025 20:53:58 Europe/Prague] [info]: Successful registration for davidcekov@gmail.com
+[06-May-2025 20:53:58 Europe/Prague] Registration result: Array
+(
+    [success] => 1
+    [id] => 41
+)
+
+[06-May-2025 20:53:58 Europe/Prague] ==== KONIEC REGISTRÁCIE ====
+[06-May-2025 20:54:07 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:54:07 Europe/Prague] [info]: Getting accommodations for gender: muz, type: ucastnik
+[06-May-2025 20:54:07 Europe/Prague] [info]: Accommodation query result: 2 rows
+[06-May-2025 20:54:18 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:54:18 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[06-May-2025 20:54:18 Europe/Prague] POST DATA: Array
+(
+    [typ] => ucastnik
+    [aktivity] => Array
+        (
+            [0] => 1
+        )
+
+    [meno] => SJKANJ
+    [priezvisko] => KJVNS
+    [email] => kvsdbkjvdsbv@kjvsb.c
+    [datum_narodenia] => 2005-05-05
+    [pohlavie] => muz
+    [mladez_id] => 6
+    [vlastny_mladez] => 
+    [activity-streda] => 1
+    [ubytovanie_id] => 5
+    [alergie] => Array
+        (
+            [0] => 2
+        )
+
+    [vlastne_alergie] => 
+    [poznamka] => 
+    [gdpr] => on
+)
+
+[06-May-2025 20:54:18 Europe/Prague] Registration type: ucastnik
+[06-May-2025 20:54:18 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => SJKANJ
+    [priezvisko] => KJVNS
+    [email] => kvsdbkjvdsbv@kjvsb.c
+    [datum_narodenia] => 2005-05-05
+    [pohlavie] => muz
+    [mladez_id] => 6
+    [vlastny_mladez] => 
+    [prvy_krat] => 
+    [poznamka] => 
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 5
+    [aktivity] => Array
+        (
+            [0] => 1
+        )
+
+    [alergie] => Array
+        (
+            [0] => 2
+        )
+
+    [vlastne_alergie] => 
+)
+
+[06-May-2025 20:54:18 Europe/Prague] User registration type: ucastnik
+[06-May-2025 20:54:18 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[06-May-2025 20:54:18 Europe/Prague] Array
+(
+    [meno] => SJKANJ
+    [priezvisko] => KJVNS
+    [email] => kvsdbkjvdsbv@kjvsb.c
+    [datum_narodenia] => 2005-05-05
+    [pohlavie] => muz
+    [mladez_id] => 6
+    [vlastny_mladez] => 
+    [prvy_krat] => 
+    [poznamka] => 
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 5
+    [aktivity] => Array
+        (
+            [0] => 1
+        )
+
+    [alergie] => Array
+        (
+            [0] => 2
+        )
+
+    [vlastne_alergie] => 
+)
+
+[06-May-2025 20:54:18 Europe/Prague] [info]: Processing registration for: kvsdbkjvdsbv@kjvsb.c
+[06-May-2025 20:54:18 Europe/Prague] [info]: Registration type: ucastnik
+[06-May-2025 20:54:18 Europe/Prague] [info]: Successfully created user record with ID: 42
+[06-May-2025 20:54:18 Europe/Prague] [info]: Added activities for user ID: 42
+[06-May-2025 20:54:18 Europe/Prague] [info]: Allergies to insert: ["2"]
+[06-May-2025 20:54:18 Europe/Prague] [info]: Inserted allergy ID 2 for user 42
+[06-May-2025 20:54:18 Europe/Prague] [info]: Added allergies for user ID: 42
+[06-May-2025 20:54:18 Europe/Prague] [info]: Added accommodation ID: 5 for user ID: 42
+[06-May-2025 20:54:18 Europe/Prague] [info]: Successful registration for kvsdbkjvdsbv@kjvsb.c
+[06-May-2025 20:54:18 Europe/Prague] Registration result: Array
+(
+    [success] => 1
+    [id] => 42
+)
+
+[06-May-2025 20:54:18 Europe/Prague] ==== KONIEC REGISTRÁCIE ====
+[06-May-2025 20:54:24 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:54:24 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:54:24 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:54:24 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:54:24 Europe/Prague] [info]: Found 14 available activities
+[06-May-2025 20:54:24 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:54:25 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:54:25 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:54:25 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[06-May-2025 20:54:25 Europe/Prague] [info]: Activities query executed: success
+[06-May-2025 20:54:25 Europe/Prague] [info]: Found 14 available activities
+[06-May-2025 20:54:26 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[08-May-2025 21:36:36 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[08-May-2025 21:36:36 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[08-May-2025 21:36:36 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[08-May-2025 21:36:36 Europe/Prague] [info]: Activities query executed: success
+[08-May-2025 21:36:36 Europe/Prague] [info]: Found 14 available activities
+[08-May-2025 21:36:37 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 07:09:44 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 07:09:44 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 07:09:44 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 07:09:44 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 07:09:44 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 07:09:44 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:04:21 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:04:21 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:04:21 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:04:21 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:04:21 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:04:21 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:07:56 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:07:56 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:07:56 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:07:56 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:07:56 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:07:57 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:09:33 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:09:33 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:09:33 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:09:33 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:09:33 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:09:34 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:09:36 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:09:36 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:09:36 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:09:36 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:09:36 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:09:37 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:14:42 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:14:46 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:14:46 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:14:46 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:14:46 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:14:46 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:14:47 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:17:51 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:17:51 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:17:51 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:17:51 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:17:51 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:17:51 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:17:52 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:17:52 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:17:52 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:17:52 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:17:52 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:17:53 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:17:58 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:17:58 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:17:58 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:17:58 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:17:58 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:17:58 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:20:21 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:20:22 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:20:22 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:20:22 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:20:22 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:20:22 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:20:23 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:20:27 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:20:27 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:20:27 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:20:27 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:20:27 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:20:27 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:21:13 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:21:13 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:21:13 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:21:13 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:21:13 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:21:14 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:22:04 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:22:04 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:22:04 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:22:05 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:22:05 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:22:05 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:25:53 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:25:55 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:25:55 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:25:55 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:25:55 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:25:55 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:25:55 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:31:47 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:31:50 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:31:50 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:31:50 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:31:50 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:31:50 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:31:51 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:31:54 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:31:54 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:31:54 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:31:54 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:31:54 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:31:56 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:31:56 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:31:56 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:31:56 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:31:56 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:31:56 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:40:00 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:40:02 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:40:02 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:40:02 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:40:02 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:40:02 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:40:02 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:40:05 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:40:05 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:40:05 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:40:05 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:40:05 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:40:06 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:40:22 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:40:22 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:40:22 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:40:22 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:40:22 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:40:22 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:41:21 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:41:21 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:41:21 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:41:21 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:41:21 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:41:21 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:50:44 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:50:46 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:50:46 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:50:46 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:50:46 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:50:46 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:50:46 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:51:30 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:51:30 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:51:30 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:51:30 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:51:30 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:51:31 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:59:33 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:59:34 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:59:34 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:59:34 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:59:34 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:59:34 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:59:34 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:59:45 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:59:45 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:59:45 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 16:59:45 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 16:59:45 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 16:59:45 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:00:14 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:00:14 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:00:14 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:00:14 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 17:00:14 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 17:00:14 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:01:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:01:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:01:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:01:10 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 17:01:10 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 17:01:10 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:33:07 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:33:07 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 6
+[09-May-2025 17:33:29 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:33:29 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 6
+[09-May-2025 17:33:42 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:33:43 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:33:43 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:33:43 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:33:43 Europe/Prague] [info]: Activities query executed: success
+[09-May-2025 17:33:43 Europe/Prague] [info]: Found 14 available activities
+[09-May-2025 17:33:43 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:33:53 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:33:53 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 6
+[09-May-2025 17:34:02 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:34:02 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 6
+[09-May-2025 17:34:03 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:34:03 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 6
+[09-May-2025 17:34:03 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:34:03 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 6
+[09-May-2025 17:35:45 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:35:45 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 6
+[09-May-2025 17:35:46 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:35:46 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 6
+[09-May-2025 17:35:46 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:35:46 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 6
+[09-May-2025 17:35:47 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:35:47 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 6
+[09-May-2025 17:36:49 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:36:49 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 6
+[09-May-2025 17:36:50 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:36:50 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 6
+[09-May-2025 17:36:50 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:36:50 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 6
+[09-May-2025 17:36:51 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:36:51 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 6
+[09-May-2025 17:37:02 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:37:20 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:37:20 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 6
+[09-May-2025 17:38:02 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:38:02 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 6
+[09-May-2025 17:38:03 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:38:03 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 6
+[09-May-2025 17:39:46 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:47:29 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:47:29 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:9
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 9
+[09-May-2025 17:49:28 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:49:28 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:20
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 20
+[09-May-2025 17:54:15 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:54:15 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:22
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 22
+[09-May-2025 17:54:47 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:54:57 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 17:54:57 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:22
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 22
+[09-May-2025 20:21:17 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 20:21:17 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:22
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 22
+[09-May-2025 20:30:48 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 20:30:48 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:30
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 30
+[09-May-2025 20:35:50 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 20:35:50 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/test-connection.php:27
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/test-connection.php on line 27
+[09-May-2025 20:36:14 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 20:36:14 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/test-connection.php:27
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/test-connection.php on line 27
+[09-May-2025 20:36:16 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 20:36:16 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/test-connection.php:27
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/test-connection.php on line 27
+[09-May-2025 20:43:11 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 20:43:11 Europe/Prague] [info]: Export script started
+[09-May-2025 20:43:11 Europe/Prague] [info]: Creating database connection
+[09-May-2025 20:43:11 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:40
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 40
+[09-May-2025 20:43:17 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 20:43:17 Europe/Prague] [info]: Test database connection script started
+[09-May-2025 20:43:17 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/test-connection.php:38
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/test-connection.php on line 38
+[09-May-2025 20:43:22 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 20:43:22 Europe/Prague] [info]: Test database connection script started
+[09-May-2025 20:43:22 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/test-connection.php:38
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/test-connection.php on line 38
+[09-May-2025 20:43:24 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 20:43:24 Europe/Prague] [info]: Test database connection script started
+[09-May-2025 20:43:24 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/test-connection.php:38
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/test-connection.php on line 38
+[09-May-2025 20:46:20 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 20:46:20 Europe/Prague] [info]: Export script started
+[09-May-2025 20:46:20 Europe/Prague] [info]: Creating database connection
+[09-May-2025 20:46:20 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/export.php:40
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/export.php on line 40
+[09-May-2025 20:46:31 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 20:46:31 Europe/Prague] [info]: Test database connection script started
+[09-May-2025 20:46:31 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/test-connection.php:38
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/test-connection.php on line 38
+[09-May-2025 20:46:32 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 20:46:32 Europe/Prague] [info]: Test database connection script started
+[09-May-2025 20:46:32 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/test-connection.php:38
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/test-connection.php on line 38
+[09-May-2025 22:21:32 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 22:21:32 Europe/Prague] [info]: Export script started
+[09-May-2025 22:21:32 Europe/Prague] [info]: Creating database connection
+[09-May-2025 22:21:32 Europe/Prague] [info]: Testing database connection
+[09-May-2025 22:21:32 Europe/Prague] [info]: Database connection successful
+[09-May-2025 22:21:32 Europe/Prague] [info]: Executing database query
+[09-May-2025 22:21:32 Europe/Prague] [error]: Export Error: Database query failed: Unknown column 'ou.mladez_id' in 'on clause'
+[09-May-2025 22:21:32 Europe/Prague] [error]: Stack trace: #0 {main}
+[09-May-2025 22:22:03 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 22:22:03 Europe/Prague] [info]: Export script started
+[09-May-2025 22:22:03 Europe/Prague] [info]: Creating database connection
+[09-May-2025 22:22:03 Europe/Prague] [info]: Testing database connection
+[09-May-2025 22:22:03 Europe/Prague] [info]: Database connection successful
+[09-May-2025 22:22:03 Europe/Prague] [info]: Executing database query
+[09-May-2025 22:22:03 Europe/Prague] [error]: Export Error: Database query failed: Unknown column 'ou.mladez_id' in 'on clause'
+[09-May-2025 22:22:03 Europe/Prague] [error]: Stack trace: #0 {main}
+[09-May-2025 22:22:18 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 22:22:18 Europe/Prague] [info]: Export script started
+[09-May-2025 22:22:18 Europe/Prague] [info]: Creating database connection
+[09-May-2025 22:22:18 Europe/Prague] [info]: Testing database connection
+[09-May-2025 22:22:18 Europe/Prague] [info]: Database connection successful
+[09-May-2025 22:22:18 Europe/Prague] [info]: Executing database query
+[09-May-2025 22:22:18 Europe/Prague] [error]: Export Error: Database query failed: Unknown column 'ou.mladez_id' in 'on clause'
+[09-May-2025 22:22:18 Europe/Prague] [error]: Stack trace: #0 {main}
+[09-May-2025 22:23:25 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 22:23:25 Europe/Prague] [info]: Test database connection script started
+[09-May-2025 22:23:25 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/test-connection.php:38
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/test-connection.php on line 38
+[09-May-2025 22:23:26 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 22:23:26 Europe/Prague] [info]: Test database connection script started
+[09-May-2025 22:23:26 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/test-connection.php:38
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/test-connection.php on line 38
+[09-May-2025 22:23:27 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 22:23:27 Europe/Prague] [info]: Test database connection script started
+[09-May-2025 22:23:27 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/test-connection.php:38
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/test-connection.php on line 38
+[09-May-2025 22:23:28 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 22:23:28 Europe/Prague] [info]: Test database connection script started
+[09-May-2025 22:23:28 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/test-connection.php:38
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/test-connection.php on line 38
+[09-May-2025 22:23:30 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 22:23:30 Europe/Prague] [info]: Test database connection script started
+[09-May-2025 22:23:30 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/test-connection.php:38
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/test-connection.php on line 38
+[09-May-2025 22:23:32 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 22:23:32 Europe/Prague] [info]: Test database connection script started
+[09-May-2025 22:23:32 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/test-connection.php:38
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/test-connection.php on line 38
+[09-May-2025 22:23:34 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 22:23:34 Europe/Prague] [info]: Test database connection script started
+[09-May-2025 22:23:34 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/test-connection.php:38
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/test-connection.php on line 38
+[09-May-2025 22:28:01 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 22:28:01 Europe/Prague] [info]: Export script started
+[09-May-2025 22:28:01 Europe/Prague] [info]: Creating database connection
+[09-May-2025 22:28:01 Europe/Prague] [info]: Testing database connection
+[09-May-2025 22:28:01 Europe/Prague] [info]: Database connection successful
+[09-May-2025 22:28:01 Europe/Prague] [info]: Executing database query
+[09-May-2025 22:28:01 Europe/Prague] [info]: Query executed successfully, fetching data
+[09-May-2025 22:28:01 Europe/Prague] [info]: Data fetched successfully, records found: 33
+[09-May-2025 22:28:01 Europe/Prague] [info]: Data processed and formatted for export
+[09-May-2025 22:28:01 Europe/Prague] [info]: JSON encoding successful, sending response
+[09-May-2025 22:28:01 Europe/Prague] [info]: Export completed successfully
+[09-May-2025 22:28:36 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 22:28:36 Europe/Prague] [info]: Export script started
+[09-May-2025 22:28:36 Europe/Prague] [info]: Creating database connection
+[09-May-2025 22:28:36 Europe/Prague] [info]: Testing database connection
+[09-May-2025 22:28:36 Europe/Prague] [info]: Database connection successful
+[09-May-2025 22:28:36 Europe/Prague] [info]: Executing database query
+[09-May-2025 22:28:36 Europe/Prague] [info]: Query executed successfully, fetching data
+[09-May-2025 22:28:36 Europe/Prague] [info]: Data fetched successfully, records found: 33
+[09-May-2025 22:28:36 Europe/Prague] [info]: Data processed and formatted for export
+[09-May-2025 22:28:36 Europe/Prague] [info]: JSON encoding successful, sending response
+[09-May-2025 22:28:36 Europe/Prague] [info]: Export completed successfully
+[09-May-2025 22:29:47 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 22:29:47 Europe/Prague] [info]: Test database connection script started
+[09-May-2025 22:29:47 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/test-connection.php:38
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/test-connection.php on line 38
+[09-May-2025 22:29:48 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 22:29:48 Europe/Prague] [info]: Test database connection script started
+[09-May-2025 22:29:48 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/test-connection.php:38
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/test-connection.php on line 38
+[09-May-2025 22:29:49 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 22:29:49 Europe/Prague] [info]: Test database connection script started
+[09-May-2025 22:29:49 Europe/Prague] PHP Fatal error:  Uncaught Error: Class "Database" not found in /var/www/clients/client5/web40/web/register/api/test-connection.php:38
+Stack trace:
+#0 {main}
+  thrown in /var/www/clients/client5/web40/web/register/api/test-connection.php on line 38
+[09-May-2025 22:34:02 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 22:34:02 Europe/Prague] [info]: Export script started
+[09-May-2025 22:34:02 Europe/Prague] [info]: Creating database connection
+[09-May-2025 22:34:02 Europe/Prague] [info]: Testing database connection
+[09-May-2025 22:34:02 Europe/Prague] [info]: Database connection successful
+[09-May-2025 22:34:02 Europe/Prague] [info]: Executing database query
+[09-May-2025 22:34:02 Europe/Prague] [info]: Query executed successfully, fetching data
+[09-May-2025 22:34:02 Europe/Prague] [info]: Data fetched successfully, records found: 33
+[09-May-2025 22:34:02 Europe/Prague] [info]: Data processed and formatted for export
+[09-May-2025 22:34:02 Europe/Prague] [info]: JSON encoding successful, sending response
+[09-May-2025 22:34:02 Europe/Prague] [info]: Export completed successfully
+[09-May-2025 22:34:52 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 22:34:52 Europe/Prague] [info]: Export script started
+[09-May-2025 22:34:52 Europe/Prague] [info]: Creating database connection
+[09-May-2025 22:34:52 Europe/Prague] [info]: Testing database connection
+[09-May-2025 22:34:52 Europe/Prague] [info]: Database connection successful
+[09-May-2025 22:34:52 Europe/Prague] [info]: Executing database query
+[09-May-2025 22:34:52 Europe/Prague] [info]: Query executed successfully, fetching data
+[09-May-2025 22:34:52 Europe/Prague] [info]: Data fetched successfully, records found: 33
+[09-May-2025 22:34:52 Europe/Prague] [info]: Data processed and formatted for export
+[09-May-2025 22:34:52 Europe/Prague] [info]: JSON encoding successful, sending response
+[09-May-2025 22:34:52 Europe/Prague] [info]: Export completed successfully
+[09-May-2025 22:38:12 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[09-May-2025 22:38:12 Europe/Prague] [info]: Export script started
+[09-May-2025 22:38:12 Europe/Prague] [info]: Creating database connection
+[09-May-2025 22:38:12 Europe/Prague] [info]: Testing database connection
+[09-May-2025 22:38:12 Europe/Prague] [info]: Database connection successful
+[09-May-2025 22:38:12 Europe/Prague] [info]: Executing database query
+[09-May-2025 22:38:12 Europe/Prague] [info]: Query executed successfully, fetching data
+[09-May-2025 22:38:12 Europe/Prague] [info]: Data fetched successfully, records found: 33
+[09-May-2025 22:38:12 Europe/Prague] [info]: Data processed and formatted for export
+[09-May-2025 22:38:12 Europe/Prague] [info]: JSON encoding successful, sending response
+[09-May-2025 22:38:12 Europe/Prague] [info]: Export completed successfully
+[19-May-2025 19:44:57 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[19-May-2025 19:44:57 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[19-May-2025 19:44:57 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[19-May-2025 19:44:57 Europe/Prague] [info]: Activities query executed: success
+[19-May-2025 19:44:57 Europe/Prague] [info]: Found 16 available activities
+[19-May-2025 19:44:58 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[19-May-2025 19:45:00 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[19-May-2025 19:45:00 Europe/Prague] [info]: Getting accommodations for gender: muz, type: ucastnik
+[19-May-2025 19:45:00 Europe/Prague] [info]: Accommodation query result: 2 rows
+[19-May-2025 19:46:17 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[19-May-2025 19:46:17 Europe/Prague] ==== ZAČIATOK REGISTRÁCIE ====
+[19-May-2025 19:46:17 Europe/Prague] POST DATA: Array
+(
+    [typ] => ucastnik
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 15
+            [2] => 12
+        )
+
+    [meno] => martin
+    [priezvisko] => micuch
+    [email] => micuchmartin19@gmail.com
+    [datum_narodenia] => 2004-06-07
+    [pohlavie] => muz
+    [mladez_id] => 1
+    [vlastny_mladez] => 
+    [activity-streda] => 1
+    [activity-stvrtok] => 15
+    [activity-piatok] => 12
+    [ubytovanie_id] => 1
+    [alergie] => Array
+        (
+            [0] => 10
+        )
+
+    [vlastne_alergie] => 
+    [poznamka] => 
+    [gdpr] => on
+)
+
+[19-May-2025 19:46:17 Europe/Prague] Registration type: ucastnik
+[19-May-2025 19:46:17 Europe/Prague] Parsed registration data: Array
+(
+    [meno] => martin
+    [priezvisko] => micuch
+    [email] => micuchmartin19@gmail.com
+    [datum_narodenia] => 2004-06-07
+    [pohlavie] => muz
+    [mladez_id] => 1
+    [vlastny_mladez] => 
+    [prvy_krat] => 
+    [poznamka] => 
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 1
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 15
+            [2] => 12
+        )
+
+    [alergie] => Array
+        (
+            [0] => 10
+        )
+
+    [vlastne_alergie] => 
+)
+
+[19-May-2025 19:46:17 Europe/Prague] User registration type: ucastnik
+[19-May-2025 19:46:17 Europe/Prague] ==== FINAL REGISTRATION DATA BEFORE PROCESSING ====
+[19-May-2025 19:46:17 Europe/Prague] Array
+(
+    [meno] => martin
+    [priezvisko] => micuch
+    [email] => micuchmartin19@gmail.com
+    [datum_narodenia] => 2004-06-07
+    [pohlavie] => muz
+    [mladez_id] => 1
+    [vlastny_mladez] => 
+    [prvy_krat] => 
+    [poznamka] => 
+    [gdpr] => 1
+    [typ] => ucastnik
+    [ubytovanie_id] => 1
+    [aktivity] => Array
+        (
+            [0] => 1
+            [1] => 15
+            [2] => 12
+        )
+
+    [alergie] => Array
+        (
+            [0] => 10
+        )
+
+    [vlastne_alergie] => 
+)
+
+[19-May-2025 19:46:17 Europe/Prague] [info]: Processing registration for: micuchmartin19@gmail.com
+[19-May-2025 19:46:17 Europe/Prague] [info]: Registration type: ucastnik
+[19-May-2025 19:46:17 Europe/Prague] [info]: Successfully created user record with ID: 1
+[19-May-2025 19:46:17 Europe/Prague] [info]: Added activities for user ID: 1
+[19-May-2025 19:46:17 Europe/Prague] [info]: Allergies to insert: ["10"]
+[19-May-2025 19:46:17 Europe/Prague] [info]: Inserted allergy ID 10 for user 1
+[19-May-2025 19:46:17 Europe/Prague] [info]: Added allergies for user ID: 1
+[19-May-2025 19:46:17 Europe/Prague] [info]: Added accommodation ID: 1 for user ID: 1
+[19-May-2025 19:46:17 Europe/Prague] [info]: Successful registration for micuchmartin19@gmail.com
+[19-May-2025 19:46:17 Europe/Prague] Registration result: Array
+(
+    [success] => 1
+    [id] => 1
+)
+
+[19-May-2025 19:46:17 Europe/Prague] ==== KONIEC REGISTRÁCIE ====
+[19-May-2025 19:47:32 Europe/Prague] Loaded .env file. DB_HOST: db.dw041.nameserver.sk
+[19-May-2025 19:47:32 Europe/Prague] [info]: Export script started
+[19-May-2025 19:47:32 Europe/Prague] [info]: Creating database connection
+[19-May-2025 19:47:32 Europe/Prague] [info]: Testing database connection
+[19-May-2025 19:47:32 Europe/Prague] [info]: Database connection successful
+[19-May-2025 19:47:32 Europe/Prague] [info]: Executing database query
+[19-May-2025 19:47:32 Europe/Prague] [info]: Query executed successfully, fetching data
+[19-May-2025 19:47:32 Europe/Prague] [info]: Data fetched successfully, records found: 1
+[19-May-2025 19:47:32 Europe/Prague] [info]: Data processed and formatted for export
+[19-May-2025 19:47:32 Europe/Prague] [info]: JSON encoding successful, sending response
+[19-May-2025 19:47:32 Europe/Prague] [info]: Export completed successfully

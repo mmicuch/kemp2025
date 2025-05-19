@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Špeciálna registrácia - Kemp 2025</title>
+  <meta name="description" content="Špeciálna registrácia pre vedúcich a hostí">
+  <link rel="stylesheet" href="src/css/special.css">
+  <script type="module">
+    document.addEventListener('DOMContentLoaded', () => {
+      const form = document.getElementById('special-form');
+      const errorContainer = document.getElementById('error-container');
+      const successContainer = document.getElementById('success-container');
+      const linkContainer = document.getElementById('special-link');
+      const copyButton = document.getElementById('copy-button');
+
+      // Check if there's a token in URL
+      const urlParams = new URLSearchParams(window.location.search);
+      const token = urlParams.get('token');
+
+      if (token) {
+        // Validate token format (should be UUID v4)
+        const uuidRegex = /^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
+        if (uuidRegex.test(token)) {
+          window.location.href = `index.html?special=true&token=${token}`;
+        } else {
+          errorContainer.textContent = 'Neplatný token. Prosím, kontaktujte organizátorov.';
+          errorContainer.style.display = 'block';
+        }
+      }
+
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+
+        const type = document.getElementById('reg-type').value;
+        const code = document.getElementById('security-code').value;
+
+        if (!type || !code) {
+          errorContainer.textContent = 'Prosím, vyplňte všetky polia';
+          errorContainer.style.display = 'block';
+          return;
+        }
+
+        // Check if the security code is correct (for demo: admin123)
+        if (code !== 'admin123') {
+          errorContainer.textContent = 'Nesprávny bezpečnostný kód';
+          errorContainer.style.display = 'block';
+          return;
+        }
+
+        // Generate a UUID v4 token
+        const token = crypto.randomUUID();
+
+        // Create and show the special link (add type parameter for hosts)
+        let specialLink = '';
+        const basePath = window.location.origin + '/register/index.html';
+        if (type === 'host') {
+          specialLink = `${basePath}?special=true&token=${token}&type=host`;
+        } else {
+          specialLink = `${basePath}?special=true&token=${token}`;
+        }
+
+        linkContainer.textContent = specialLink;
+        linkContainer.href = specialLink;
+
+        // Show success message
+        successContainer.style.display = 'block';
+        form.style.display = 'none';
+
+        // Enable copy button
+        copyButton.addEventListener('click', () => {
+          navigator.clipboard.writeText(specialLink).then(() => {
+            copyButton.textContent = 'Skopírované!';
+            setTimeout(() => {
+              copyButton.textContent = 'Kopírovať odkaz';
+            }, 2000);
+          });
+        });
+      });
+    });
+  </script>
+</head>
+<body>
+  <div class="special-container">
+    <div class="logo">
+      <img src="../assets/images/kemp.webp" alt="Kemp 2025 Logo">
+    </div>
+
+    <h1>Špeciálna registrácia</h1>
+    <p>Tento formulár je určený pre administrátorov na generovanie špeciálnych registračných odkazov pre vedúcich a hostí kempu.</p>
+
+    <div id="error-container" style="display: none;"></div>
+
+    <div id="success-container" style="display: none;">
+      <h2>Odkaz vygenerovaný!</h2>
+      <p>Tento odkaz môžete poslať vedúcemu alebo hosťovi:</p>
+      <div class="special-link">
+        <a id="special-link" href="#" target="_blank"></a>
+      </div>
+      <p>
+        <button id="copy-button" class="btn">Kopírovať odkaz</button>
+      </p>
+      <p><small>Odkaz je platný až do jeho použitia alebo do konca registrácie.</small></p>
+    </div>
+
+    <div id="form-container">
+      <form id="special-form">
+        <div class="form-group">
+          <label for="reg-type">Typ registrácie</label>
+          <select id="reg-type" class="form-control" required>
+            <option value="">Vyberte typ...</option>
+            <option value="veduci">Vedúci</option>
+            <option value="host">Hosť</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="security-code">Bezpečnostný kód</label>
+          <input type="password" id="security-code" class="form-control" required>
+          <small>Bezpečnostný kód dostanete od organizátorov kempu.</small>
+        </div>
+
+        <div class="form-group">
+          <button type="submit" class="btn">Generovať odkaz</button>
+        </div>
+      </form>
+    </div>
+
+    <div class="footer">
+      <a href="index.html">Späť na bežnú registráciu</a>
+      <p>&copy; 2025 - Mládežnícky kemp</p>
+    </div>
+  </div>
+</body>
+</html>
