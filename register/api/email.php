@@ -304,3 +304,43 @@ function sendAdminNotification($participantData, $registrationId) {
     
     return $allSent;
 }
+
+function testEmailConfiguration() {
+    // Check if mail function exists
+    $mailFunctionExists = function_exists('mail');
+    
+    // Check for SMTP settings in PHP configuration
+    $smtpHost = ini_get('SMTP');
+    $smtpPort = ini_get('smtp_port');
+    
+    // Check for sendmail path
+    $sendmailPath = ini_get('sendmail_path');
+    
+    // Check environment variables
+    $adminEmails = getenv('ADMIN_EMAILS');
+    
+    // Prepare results
+    $results = [
+        'mail_function_exists' => $mailFunctionExists,
+        'smtp_host' => $smtpHost ?: 'Not set',
+        'smtp_port' => $smtpPort ?: 'Not set',
+        'sendmail_path' => $sendmailPath ?: 'Not set',
+        'admin_emails' => $adminEmails ?: 'Not set',
+        'php_version' => phpversion(),
+        'server_software' => $_SERVER['SERVER_SOFTWARE'] ?? 'Unknown',
+        'sapi_name' => php_sapi_name()
+    ];
+    
+    // Try to determine if we're in a local environment
+    $isLocal = false;
+    $serverName = $_SERVER['SERVER_NAME'] ?? '';
+    if (in_array($serverName, ['localhost', '127.0.0.1']) || 
+        strpos($serverName, '.local') !== false || 
+        strpos($serverName, '.test') !== false) {
+        $isLocal = true;
+    }
+    $results['is_local_environment'] = $isLocal;
+    
+    // Return data
+    return $results;
+}
